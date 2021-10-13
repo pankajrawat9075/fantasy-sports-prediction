@@ -1,0 +1,6689 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-08-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Southampton
+  dates:
+  - '2020-08-13'
+  - '2020-08-14'
+  - '2020-08-15'
+  - '2020-08-16'
+  - '2020-08-17'
+  gender: male
+  match_type: Test
+  match_type_number: 2392
+  outcome:
+    result: draw
+  player_of_match:
+  - Mohammad Rizwan
+  players:
+    Pakistan:
+    - Shan Masood
+    - Abid Ali
+    - Azhar Ali
+    - Babar Azam
+    - Asad Shafiq
+    - Fawad Alam
+    - Mohammad Rizwan
+    - Yasir Shah
+    - Shaheen Shah Afridi
+    - Mohammad Abbas
+    - Naseem Shah
+    England:
+    - RJ Burns
+    - DP Sibley
+    - Z Crawley
+    - JE Root
+    - OJ Pope
+    - JC Buttler
+    - CR Woakes
+    - SM Curran
+    - DM Bess
+    - SCJ Broad
+    - JM Anderson
+  registry:
+    people:
+      Abid Ali: 5d836a72
+      Asad Shafiq: '50250426'
+      Azhar Ali: 211de69f
+      BC Broad: d6a7dd38
+      Babar Azam: 8a75e999
+      CR Woakes: 4c5d73db
+      DM Bess: ad46c747
+      DP Sibley: 97e434a6
+      Fawad Alam: 61f05b05
+      JC Buttler: 99b75528
+      JE Root: a343262c
+      JM Anderson: d12143bf
+      MA Gough: 76752ac8
+      MJ Saggers: 402d5937
+      Mohammad Abbas: a089f93f
+      Mohammad Rizwan: 2f26ac1a
+      Naseem Shah: 9c9af282
+      OJ Pope: e94bc520
+      RA Kettleborough: 4017868f
+      RJ Burns: 29e8a62e
+      RK Illingworth: '20672246'
+      SCJ Broad: eba6a852
+      SM Curran: e94915e6
+      Shaheen Shah Afridi: 45a7e761
+      Shan Masood: 6843a783
+      Yasir Shah: f2800ef3
+      Z Crawley: 922e1b19
+  teams:
+  - Pakistan
+  - England
+  toss:
+    decision: bat
+    winner: Pakistan
+  umpires:
+  - RA Kettleborough
+  - MA Gough
+  venue: The Rose Bowl
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shan Masood
+    - 0.2:
+        non_striker: Shan Masood
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 0.3:
+        non_striker: Shan Masood
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 0.4:
+        non_striker: Shan Masood
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 0.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shan Masood
+    - 0.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 1.1:
+        non_striker: Shan Masood
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 1.2:
+        non_striker: Shan Masood
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 1.3:
+        non_striker: Shan Masood
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 1.4:
+        non_striker: Shan Masood
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 1.5:
+        non_striker: Shan Masood
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 1.6:
+        non_striker: Shan Masood
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 2.1:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+    - 2.2:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shan Masood
+        wicket:
+          player_out: Shan Masood
+          kind: lbw
+    - 2.3:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 2.4:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 2.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 2.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 3.1:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 3.2:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 3.3:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 3.4:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 3.5:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 3.6:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 4.1:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 4.2:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abid Ali
+    - 4.3:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 4.4:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 4.5:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 4.6:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 5.1:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 5.2:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 5.3:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 5.4:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 5.5:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Ali
+    - 5.6:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Ali
+    - 6.1:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abid Ali
+    - 6.2:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 6.3:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 6.4:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 6.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 6.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 7.1:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 7.2:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 7.3:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 7.4:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Abid Ali
+    - 7.5:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 7.6:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 8.1:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Ali
+    - 8.2:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 8.3:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 8.4:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 8.5:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 8.6:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 9.1:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Ali
+    - 9.2:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 9.3:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 9.4:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 9.5:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 9.6:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 10.1:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 10.2:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Ali
+    - 10.3:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 10.4:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 10.5:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 10.6:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 11.1:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 11.2:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 11.3:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 11.4:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Ali
+    - 11.5:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abid Ali
+    - 11.6:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abid Ali
+    - 12.1:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Ali
+    - 12.2:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 12.3:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 12.4:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 12.5:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 12.6:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 13.1:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abid Ali
+    - 13.2:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 13.3:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 13.4:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 13.5:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 13.6:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 14.1:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 14.2:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 14.3:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 14.4:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 14.5:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Ali
+    - 14.6:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 15.1:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 15.2:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 15.3:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 15.4:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 15.5:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 15.6:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 16.1:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 16.2:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 16.3:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 16.4:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 16.5:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 16.6:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 17.1:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 17.2:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 17.3:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 17.4:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 17.5:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 17.6:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 18.1:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 18.2:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 18.3:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 18.4:
+        non_striker: Azhar Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Abid Ali
+    - 18.5:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 18.6:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Ali
+    - 19.1:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Ali
+    - 19.2:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 19.3:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 19.4:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 19.5:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 19.6:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 20.1:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 20.2:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 20.3:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 20.4:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Ali
+    - 20.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 20.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 21.1:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 21.2:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abid Ali
+    - 21.3:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 21.4:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Ali
+    - 21.5:
+        non_striker: Abid Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Ali
+    - 21.6:
+        non_striker: Azhar Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 22.1:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 22.2:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 22.3:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 22.4:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 22.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 22.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 23.1:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 23.2:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 23.3:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 23.4:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 23.5:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 23.6:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 24.1:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 24.2:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 24.3:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 24.4:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 24.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 24.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 25.1:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 25.2:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 25.3:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abid Ali
+    - 25.4:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 25.5:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 25.6:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 26.1:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 26.2:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 26.3:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 26.4:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abid Ali
+    - 26.5:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 26.6:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 27.1:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 27.2:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 27.3:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 27.4:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 27.5:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 27.6:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 28.1:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 28.2:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 28.3:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 28.4:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 28.5:
+        non_striker: Azhar Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 28.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 29.1:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 29.2:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 29.3:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abid Ali
+    - 29.4:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 29.5:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abid Ali
+    - 29.6:
+        non_striker: Azhar Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 30.1:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 30.2:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 30.3:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 30.4:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+    - 30.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Ali
+        wicket:
+          player_out: Azhar Ali
+          fielders:
+          - RJ Burns
+          kind: caught
+    - 30.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 31.1:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 31.2:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 31.3:
+        non_striker: Abid Ali
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Babar Azam
+    - 31.4:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 31.5:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 31.6:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 32.1:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 32.2:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 32.3:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 32.4:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 32.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 32.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Babar Azam
+    - 33.1:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 33.2:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 33.3:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 33.4:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 33.5:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 33.6:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 34.1:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abid Ali
+    - 34.2:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 34.3:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 34.4:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 34.5:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 34.6:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 35.1:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 35.2:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 35.3:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 35.4:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 35.5:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 35.6:
+        non_striker: Abid Ali
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 36.1:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abid Ali
+    - 36.2:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 36.3:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ali
+    - 36.4:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 36.5:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 36.6:
+        non_striker: Abid Ali
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 37.1:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abid Ali
+    - 37.2:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+    - 37.3:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abid Ali
+    - 37.4:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ali
+        wicket:
+          player_out: Abid Ali
+          fielders:
+          - RJ Burns
+          kind: caught
+    - 37.5:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 37.6:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 38.1:
+        non_striker: Asad Shafiq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 38.2:
+        non_striker: Asad Shafiq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 38.3:
+        non_striker: Asad Shafiq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 38.4:
+        non_striker: Asad Shafiq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 38.5:
+        non_striker: Asad Shafiq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 38.6:
+        non_striker: Asad Shafiq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 39.1:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 39.2:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 39.3:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 39.4:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 39.5:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 39.6:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 40.1:
+        non_striker: Asad Shafiq
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 40.2:
+        non_striker: Asad Shafiq
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 40.3:
+        non_striker: Asad Shafiq
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 40.4:
+        non_striker: Asad Shafiq
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 40.5:
+        non_striker: Asad Shafiq
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 40.6:
+        non_striker: Asad Shafiq
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 41.1:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asad Shafiq
+    - 41.2:
+        non_striker: Asad Shafiq
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 41.3:
+        non_striker: Asad Shafiq
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 41.4:
+        non_striker: Asad Shafiq
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 41.5:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: Asad Shafiq
+    - 41.6:
+        non_striker: Asad Shafiq
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 42.1:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asad Shafiq
+    - 42.2:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+    - 42.3:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asad Shafiq
+        wicket:
+          player_out: Asad Shafiq
+          fielders:
+          - DP Sibley
+          kind: caught
+    - 42.4:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fawad Alam
+    - 42.5:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fawad Alam
+    - 42.6:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fawad Alam
+    - 43.1:
+        non_striker: Fawad Alam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 43.2:
+        non_striker: Fawad Alam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 43.3:
+        non_striker: Fawad Alam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 43.4:
+        non_striker: Fawad Alam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Babar Azam
+    - 43.5:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fawad Alam
+        wicket:
+          player_out: Fawad Alam
+          kind: lbw
+    - 43.6:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 44.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 44.2:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 44.3:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mohammad Rizwan
+    - 44.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 44.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 44.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 45.1:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 45.2:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 45.3:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 45.4:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 45.5:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 45.6:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 46.1:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 46.2:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 46.3:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 46.4:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 46.5:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 46.6:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 47.1:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 47.2:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 47.3:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 47.4:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 47.5:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 47.6:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Babar Azam
+    - 48.1:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 48.2:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 48.3:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 48.4:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 48.5:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 48.6:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 49.1:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mohammad Rizwan
+    - 49.2:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 49.3:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 49.4:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 49.5:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 49.6:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 50.1:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 50.2:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 50.3:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 50.4:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 50.5:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 50.6:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 51.1:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 51.2:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 51.3:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 51.4:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 51.5:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 51.6:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 52.1:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 52.2:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 52.3:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 52.4:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 52.5:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 52.6:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 53.1:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 53.2:
+        non_striker: Babar Azam
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizwan
+    - 53.3:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 53.4:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 53.5:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 53.6:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 54.1:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 54.2:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 54.3:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 54.4:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 54.5:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 54.6:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 55.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 55.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 55.3:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 55.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 55.5:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 55.6:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 56.1:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 56.2:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 56.3:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 56.4:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 56.5:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 56.6:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 57.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 57.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 57.3:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 57.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 57.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 57.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 58.1:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 58.2:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 58.3:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 58.4:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 58.5:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 58.6:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 59.1:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 59.2:
+        non_striker: Babar Azam
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 59.3:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 59.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 59.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 59.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 60.1:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 60.2:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 60.3:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 60.4:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 60.5:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 60.6:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 61.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 61.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 61.3:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 61.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 61.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 61.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 62.1:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Babar Azam
+    - 62.2:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 62.3:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 62.4:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 62.5:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 62.6:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 62.7:
+        non_striker: Babar Azam
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 63.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 63.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 63.3:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 63.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 63.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 63.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 64.1:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 64.2:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 64.3:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 64.4:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 64.5:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 64.6:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 65.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 65.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yasir Shah
+    - 65.3:
+        non_striker: Yasir Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 65.4:
+        non_striker: Yasir Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 65.5:
+        non_striker: Yasir Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 65.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 66.1:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 66.2:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 66.3:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 66.4:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 66.5:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Shah
+    - 66.6:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 67.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 67.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 67.3:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Shah
+    - 67.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 67.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 67.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 68.1:
+        non_striker: Yasir Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 68.2:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+    - 68.3:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Shah
+        wicket:
+          player_out: Yasir Shah
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 68.4:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 68.5:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 68.6:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 69.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 69.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 69.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 69.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 69.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 69.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 70.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 70.2:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 70.3:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 70.4:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 70.5:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 70.6:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 71.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 71.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 71.3:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 71.4:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 71.5:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 71.6:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 72.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 72.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 72.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 72.4:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 72.5:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 72.6:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 73.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 73.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 73.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 73.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 73.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 73.6:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 74.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 74.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 74.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 74.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 74.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Shaheen Shah Afridi
+          kind: run out
+    - 74.6:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 75.1:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 75.2:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 75.3:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 75.4:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 75.5:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 75.6:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 76.1:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 76.2:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 76.3:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 76.4:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 76.5:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 76.6:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 77.1:
+        non_striker: Mohammad Abbas
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 77.2:
+        non_striker: Mohammad Abbas
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 77.3:
+        non_striker: Mohammad Abbas
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 77.4:
+        non_striker: Mohammad Abbas
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 77.5:
+        non_striker: Mohammad Abbas
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 77.6:
+        non_striker: Mohammad Rizwan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 78.1:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 78.2:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 78.3:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 78.4:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 78.5:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 78.6:
+        non_striker: Mohammad Rizwan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 79.1:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 79.2:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 79.3:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 79.4:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mohammad Rizwan
+    - 79.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 79.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 80.1:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 80.2:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Mohammad Rizwan
+    - 80.3:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 80.4:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 80.5:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 80.6:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rizwan
+    - 80.7:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 81.1:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 81.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 81.3:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 81.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 81.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 81.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 82.1:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 82.2:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 82.3:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 82.4:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 82.5:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Mohammad Rizwan
+    - 82.6:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 83.1:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 83.2:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 83.3:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 83.4:
+        non_striker: Mohammad Abbas
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 83.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+    - 83.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Abbas
+    - 84.1:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 84.2:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 84.3:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 84.4:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 84.5:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 84.6:
+        non_striker: Mohammad Abbas
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 85.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Abbas
+        wicket:
+          player_out: Mohammad Abbas
+          kind: lbw
+    - 85.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Shah
+    - 85.3:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 85.4:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 85.5:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 85.6:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 86.1:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 86.2:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 86.3:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 86.4:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 86.5:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 86.6:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 87.1:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 87.2:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 87.3:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 87.4:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 87.5:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizwan
+    - 87.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 88.1:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 88.2:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 88.3:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 88.4:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 88.5:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 88.6:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 89.1:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 89.2:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 89.3:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 89.4:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 89.5:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 89.6:
+        non_striker: Mohammad Rizwan
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 90.1:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 90.2:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 90.3:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 90.4:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 90.5:
+        non_striker: Naseem Shah
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 90.6:
+        non_striker: Mohammad Rizwan
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Shah
+    - 91.1:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 91.2:
+        non_striker: Naseem Shah
+        bowler: SCJ Broad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - Z Crawley
+          kind: caught
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 0.2:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 0.3:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 0.4:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+        wicket:
+          player_out: RJ Burns
+          fielders:
+          - Asad Shafiq
+          kind: caught
+    - 0.5:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 0.6:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 1.1:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 1.2:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 1.3:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 1.4:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 1.5:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 1.6:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 2.1:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 2.2:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 2.3:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 2.4:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 2.5:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 2.6:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Z Crawley
+    - 3.1:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 3.2:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 3.3:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Crawley
+    - 3.4:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 3.5:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 3.6:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 4.1:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 4.2:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Sibley
+    - 4.3:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 4.4:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 4.5:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 4.6:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 5.1:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Z Crawley
+    - 5.2:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DP Sibley
+    - 5.3:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 5.4:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 5.5:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 5.6:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 5.7:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 6.1:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 6.2:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 6.3:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 6.4:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 6.5:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 6.6:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 7.1:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 7.2:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Crawley
+    - 7.3:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 7.4:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 7.5:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 7.6:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Crawley
+    - 8.1:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Sibley
+    - 8.2:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 8.3:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Z Crawley
+    - 8.4:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 8.5:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DP Sibley
+    - 8.6:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 9.1:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 9.2:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 9.3:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 9.4:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 9.5:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 9.6:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 10.1:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 10.2:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Z Crawley
+    - 10.3:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 10.4:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Sibley
+    - 10.5:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 10.6:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 11.1:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Sibley
+    - 11.2:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 11.3:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 11.4:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 11.5:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 11.6:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 12.1:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 12.2:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 12.3:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 12.4:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Z Crawley
+    - 12.5:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 12.6:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 12.7:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 13.1:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 13.2:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 13.3:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 13.4:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 13.5:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 13.6:
+        non_striker: Z Crawley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 14.1:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 14.2:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 14.3:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 14.4:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 14.5:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 14.6:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 15.1:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 15.2:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 15.3:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 15.4:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 15.5:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 15.6:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 16.1:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 16.2:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 16.3:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Sibley
+    - 16.4:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Crawley
+    - 16.5:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 16.6:
+        non_striker: DP Sibley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 17.1:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Sibley
+    - 17.2:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 17.3:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Sibley
+    - 17.4:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 17.5:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Sibley
+    - 17.6:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 18.1:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 18.2:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 18.3:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 18.4:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 18.5:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 18.6:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Sibley
+    - 19.1:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Z Crawley
+    - 19.2:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 19.3:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 19.4:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z Crawley
+    - 19.5:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 19.6:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 19.7:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 19.8:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 20.1:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 20.2:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 20.3:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 20.4:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 20.5:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 20.6:
+        non_striker: Z Crawley
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Sibley
+    - 21.1:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 21.2:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 21.3:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 21.4:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 21.5:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 21.6:
+        non_striker: Z Crawley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 22.1:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 22.2:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 22.3:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Crawley
+    - 22.4:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 22.5:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 22.6:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 23.1:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 23.2:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 23.3:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 23.4:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 23.5:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Crawley
+    - 23.6:
+        non_striker: DP Sibley
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 24.1:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 24.2:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Sibley
+    - 24.3:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DP Sibley
+    - 24.4:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 24.5:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 24.6:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 25.1:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z Crawley
+    - 25.2:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 25.3:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 25.4:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 25.5:
+        non_striker: Z Crawley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 25.6:
+        non_striker: Z Crawley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 26.1:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 26.2:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 26.3:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 26.4:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 26.5:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 26.6:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 27.1:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Crawley
+    - 27.2:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 27.3:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 27.4:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Crawley
+    - 27.5:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 27.6:
+        non_striker: DP Sibley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 28.1:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 28.2:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 28.3:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 28.4:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Sibley
+    - 28.5:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 28.6:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 29.1:
+        non_striker: Z Crawley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 29.2:
+        non_striker: Z Crawley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 29.3:
+        non_striker: Z Crawley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 29.4:
+        non_striker: Z Crawley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 29.5:
+        non_striker: Z Crawley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Sibley
+    - 29.6:
+        non_striker: Z Crawley
+        bowler: Shan Masood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 30.1:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 30.2:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+    - 30.3:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z Crawley
+    - 30.4:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Crawley
+    - 30.5:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 30.6:
+        non_striker: Z Crawley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 31.1:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Crawley
+        wicket:
+          player_out: Z Crawley
+          kind: lbw
+    - 31.2:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 31.3:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 31.4:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 31.5:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 31.6:
+        non_striker: DP Sibley
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 32.1:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 32.2:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 32.3:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 32.4:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 32.5:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Sibley
+    - 32.6:
+        non_striker: DP Sibley
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 33.1:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 33.2:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+    - 33.3:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Sibley
+        wicket:
+          player_out: DP Sibley
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 33.4:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 33.5:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 33.6:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 34.1:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 34.2:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 34.3:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 34.4:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 34.5:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 34.6:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 35.1:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 35.2:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 35.3:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 35.4:
+        non_striker: OJ Pope
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 35.5:
+        non_striker: OJ Pope
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 35.6:
+        non_striker: OJ Pope
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 36.1:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 36.2:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Pope
+    - 36.3:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 36.4:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: OJ Pope
+    - 36.5:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 36.6:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 37.1:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 37.2:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 37.3:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 37.4:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 37.5:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+    - 37.6:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Pope
+    - 38.1:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 38.2:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 38.3:
+        non_striker: OJ Pope
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 38.4:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Pope
+        wicket:
+          player_out: OJ Pope
+          kind: lbw
+    - 38.5:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 38.6:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 39.1:
+        non_striker: JC Buttler
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 39.2:
+        non_striker: JC Buttler
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 39.3:
+        non_striker: JC Buttler
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 39.4:
+        non_striker: JC Buttler
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 39.5:
+        non_striker: JC Buttler
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 39.6:
+        non_striker: JC Buttler
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 40.1:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 40.2:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 40.3:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 40.4:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 40.5:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 40.6:
+        non_striker: JE Root
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 41.1:
+        non_striker: JC Buttler
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 41.2:
+        non_striker: JC Buttler
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JE Root
+    - 41.3:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 41.4:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 41.5:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 41.6:
+        non_striker: JE Root
+        bowler: Mohammad Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 42.1:
+        non_striker: JC Buttler
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 42.2:
+        non_striker: JC Buttler
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 42.3:
+        non_striker: JC Buttler
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 42.4:
+        non_striker: JC Buttler
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 42.5:
+        non_striker: JC Buttler
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 42.6:
+        non_striker: JC Buttler
+        bowler: Yasir Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 43.1:
+        non_striker: JE Root
+        bowler: Azhar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    declared: 'yes'

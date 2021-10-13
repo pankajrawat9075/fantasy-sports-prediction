@@ -1,0 +1,8069 @@
+---
+meta:
+  data_version: 0.91
+  created: '2019-12-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  dates:
+  - '2019-11-22'
+  - '2019-11-23'
+  - '2019-11-24'
+  gender: male
+  match_type: Test
+  match_type_number: 2369
+  outcome:
+    winner: India
+    by:
+      innings: 1
+      runs: 46
+  player_of_match:
+  - I Sharma
+  players:
+    Bangladesh:
+    - Shadman Islam
+    - Imrul Kayes
+    - Mominul Haque
+    - Mohammad Mithun
+    - Mushfiqur Rahim
+    - Mahmudullah
+    - Liton Das
+    - Nayeem Hasan
+    - Ebadat Hossain
+    - Mehedi Hasan Miraz
+    - Al-Amin Hossain
+    - Abu Jayed
+    - Taijul Islam
+    India:
+    - MA Agarwal
+    - RG Sharma
+    - CA Pujara
+    - V Kohli
+    - AM Rahane
+    - RA Jadeja
+    - WP Saha
+    - R Ashwin
+    - UT Yadav
+    - I Sharma
+    - Mohammed Shami
+  registry:
+    people:
+      AM Rahane: 29e95537
+      Abu Jayed: 1bb0993e
+      Al-Amin Hossain: 3f5f39cd
+      CA Pujara: d4f9dbd4
+      CK Nandan: 012de9c4
+      Ebadat Hossain: cb5100f1
+      I Sharma: 5bb1a1c4
+      Imrul Kayes: 5fbe14fc
+      JS Wilson: d7f3b72f
+      Liton Das: 0404d43c
+      M Erasmus: 15d3c895
+      MA Agarwal: 00ea847a
+      Mahmudullah: bf1d7d3e
+      Mehedi Hasan Miraz: c58b0108
+      Mohammad Mithun: '77191792'
+      Mohammed Shami: 8cf9814c
+      Mominul Haque: de0a3209
+      Mushfiqur Rahim: a94e08ea
+      Nayeem Hasan: 1670dcfd
+      R Ashwin: 495d42a5
+      RA Jadeja: fe93fd9d
+      RG Sharma: 740742ef
+      RJ Tucker: 38810cfc
+      RS Madugalle: 766b5798
+      Shadman Islam: 246d11a2
+      Taijul Islam: 9d1d34bd
+      UT Yadav: cc1e8c68
+      V Kohli: ba607b88
+      WP Saha: fe11caa6
+  teams:
+  - India
+  - Bangladesh
+  toss:
+    decision: bat
+    winner: Bangladesh
+  umpires:
+  - JS Wilson
+  - M Erasmus
+  venue: Eden Gardens
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.2:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.3:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.4:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.5:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.6:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 1.1:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.2:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 1.3:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 1.4:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadman Islam
+    - 1.5:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.6:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 2.1:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 2.2:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 2.3:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadman Islam
+    - 2.4:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 2.5:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 2.6:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 3.1:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 3.2:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 3.3:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadman Islam
+    - 3.4:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 3.5:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadman Islam
+    - 3.6:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 4.1:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 4.2:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 4.3:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 4.4:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 4.5:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 4.6:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 5.1:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 5.2:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 5.3:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Imrul Kayes
+    - 5.4:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 5.5:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 5.6:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 6.1:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.2:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.3:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+        wicket:
+          player_out: Imrul Kayes
+          kind: lbw
+    - 6.4:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 6.5:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 6.6:
+        non_striker: Shadman Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 7.1:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 7.2:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 7.3:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadman Islam
+    - 7.4:
+        non_striker: Shadman Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 7.5:
+        non_striker: Shadman Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 7.6:
+        non_striker: Shadman Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 8.1:
+        non_striker: Mominul Haque
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 8.2:
+        non_striker: Mominul Haque
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 8.3:
+        non_striker: Mominul Haque
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 8.4:
+        non_striker: Mominul Haque
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 8.5:
+        non_striker: Mominul Haque
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 8.6:
+        non_striker: Mominul Haque
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadman Islam
+    - 9.1:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 9.2:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 9.3:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 9.4:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 9.5:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 9.6:
+        non_striker: Mominul Haque
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 10.1:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+        wicket:
+          player_out: Mominul Haque
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 10.2:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 10.3:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+        wicket:
+          player_out: Mohammad Mithun
+          kind: bowled
+    - 10.4:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 10.5:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 10.6:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 11.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadman Islam
+    - 11.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadman Islam
+    - 11.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadman Islam
+    - 11.5:
+        non_striker: Shadman Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          kind: bowled
+    - 11.6:
+        non_striker: Shadman Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 12.1:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 12.2:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadman Islam
+    - 12.3:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadman Islam
+    - 12.4:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadman Islam
+    - 12.5:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 12.6:
+        non_striker: Shadman Islam
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.1:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 13.2:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 13.3:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadman Islam
+    - 13.4:
+        non_striker: Shadman Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Mahmudullah
+    - 13.5:
+        non_striker: Shadman Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.6:
+        non_striker: Shadman Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.1:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 14.2:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+        wicket:
+          player_out: Shadman Islam
+          fielders:
+          - WP Saha
+          kind: caught
+    - 14.3:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 14.4:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 14.5:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 14.6:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Liton Das
+    - 15.1:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 15.2:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 15.3:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 15.4:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 15.5:
+        non_striker: Liton Das
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 15.6:
+        non_striker: Liton Das
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 16.1:
+        non_striker: Liton Das
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 16.2:
+        non_striker: Liton Das
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 16.3:
+        non_striker: Liton Das
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 16.4:
+        non_striker: Liton Das
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 16.5:
+        non_striker: Liton Das
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 16.6:
+        non_striker: Liton Das
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 17.1:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 17.2:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 17.3:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 17.4:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 17.5:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 17.6:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 18.1:
+        non_striker: Liton Das
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 18.2:
+        non_striker: Liton Das
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 18.3:
+        non_striker: Liton Das
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 18.4:
+        non_striker: Mahmudullah
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 18.5:
+        non_striker: Mahmudullah
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 18.6:
+        non_striker: Mahmudullah
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 19.1:
+        non_striker: Liton Das
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.2:
+        non_striker: Liton Das
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.3:
+        non_striker: Liton Das
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.4:
+        non_striker: Liton Das
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          fielders:
+          - WP Saha
+          kind: caught
+    - 19.5:
+        non_striker: Liton Das
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 19.6:
+        non_striker: Liton Das
+        bowler: I Sharma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Nayeem Hasan
+    - 20.1:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 20.2:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 20.3:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 20.4:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 20.5:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 20.6:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 21.1:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Liton Das
+    - 21.2:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 21.3:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 21.4:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          kind: retired hurt
+    - 21.5:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+    - 21.6:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+    - 22.1:
+        non_striker: Ebadat Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 22.2:
+        non_striker: Ebadat Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 22.3:
+        non_striker: Ebadat Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nayeem Hasan
+    - 22.4:
+        non_striker: Ebadat Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 22.5:
+        non_striker: Ebadat Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 22.6:
+        non_striker: Ebadat Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nayeem Hasan
+    - 23.1:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+    - 23.2:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+    - 23.3:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ebadat Hossain
+    - 23.4:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+    - 23.5:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+        wicket:
+          player_out: Ebadat Hossain
+          kind: bowled
+    - 23.6:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Mehedi Hasan Miraz
+            out: Liton Das
+            reason: concussion_substitute
+            team: Bangladesh
+        batsman: Mehedi Hasan Miraz
+    - 24.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 24.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 24.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 24.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 24.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 24.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 25.1:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 25.2:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 25.3:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 25.4:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 25.5:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 25.6:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 26.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 26.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 26.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nayeem Hasan
+    - 26.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nayeem Hasan
+    - 26.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 26.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 27.1:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 27.2:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 27.3:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 27.4:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 27.5:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 27.6:
+        non_striker: Nayeem Hasan
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Mehedi Hasan Miraz
+          fielders:
+          - CA Pujara
+          kind: caught
+    - 28.1:
+        non_striker: Al-Amin Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 28.2:
+        non_striker: Al-Amin Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Nayeem Hasan
+    - 28.3:
+        non_striker: Al-Amin Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayeem Hasan
+    - 28.4:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 28.5:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 28.6:
+        non_striker: Nayeem Hasan
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 29.1:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 29.2:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 29.3:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 29.4:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nayeem Hasan
+    - 29.5:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+        wicket:
+          player_out: Nayeem Hasan
+          kind: bowled
+    - 29.6:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abu Jayed
+    - 30.1:
+        non_striker: Abu Jayed
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Al-Amin Hossain
+    - 30.2:
+        non_striker: Al-Amin Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abu Jayed
+    - 30.3:
+        non_striker: Al-Amin Hossain
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abu Jayed
+        wicket:
+          player_out: Abu Jayed
+          fielders:
+          - CA Pujara
+          kind: caught
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 0.2:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MA Agarwal
+    - 0.3:
+        non_striker: MA Agarwal
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 0.4:
+        non_striker: MA Agarwal
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 0.5:
+        non_striker: MA Agarwal
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RG Sharma
+    - 0.6:
+        non_striker: MA Agarwal
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.1:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 1.2:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 1.3:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Agarwal
+    - 1.4:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 1.5:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 1.6:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 2.1:
+        non_striker: MA Agarwal
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 2.2:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 2.3:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 2.4:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 2.5:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 2.6:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 3.1:
+        non_striker: MA Agarwal
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RG Sharma
+    - 3.2:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 3.3:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 3.4:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 3.5:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 3.6:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Agarwal
+    - 4.1:
+        non_striker: MA Agarwal
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 4.2:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 4.3:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+    - 4.4:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Agarwal
+        wicket:
+          player_out: MA Agarwal
+          fielders:
+          - Mehedi Hasan Miraz
+          kind: caught
+    - 4.5:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 4.6:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 5.1:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.2:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.3:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.4:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.5:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 5.6:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.1:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: Taijul Islam
+            out: Nayeem Hasan
+            reason: concussion_substitute
+            team: Bangladesh
+        batsman: CA Pujara
+    - 6.2:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.3:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.4:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.5:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 6.6:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 7.1:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.2:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.3:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.4:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.5:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.6:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 8.1:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 8.2:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 8.3:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 8.4:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 8.5:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 8.6:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 9.1:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 9.2:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 9.3:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 9.4:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 9.5:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 9.6:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 10.1:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 10.2:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 10.3:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 10.4:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 10.5:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Pujara
+    - 10.6:
+        non_striker: RG Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 11.1:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 11.2:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 11.3:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 11.4:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 11.5:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 11.6:
+        non_striker: RG Sharma
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Pujara
+    - 12.1:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 12.2:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 12.3:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 12.4:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 12.5:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          kind: lbw
+    - 12.6:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 13.1:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Pujara
+    - 13.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 13.3:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 13.4:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Pujara
+    - 13.5:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 13.6:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 14.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 14.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 14.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 14.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 14.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 14.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 15.1:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 15.2:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 15.3:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 15.4:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 15.5:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Pujara
+    - 15.6:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 16.1:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 16.2:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 16.3:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 16.4:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 16.5:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 16.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 17.1:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 17.2:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 17.3:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 17.4:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 17.5:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 17.6:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 18.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 18.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 18.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 18.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 18.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Pujara
+    - 18.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 19.1:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.2:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.3:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 19.4:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: V Kohli
+    - 19.5:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 19.6:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 20.1:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 20.2:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 20.3:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 20.4:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 20.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 20.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Pujara
+    - 21.1:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 21.2:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 21.3:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 21.4:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 21.5:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 21.6:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 22.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 22.2:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 22.3:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 22.4:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 22.5:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 22.6:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 23.1:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 23.2:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 23.3:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 23.4:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 23.5:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Pujara
+    - 23.6:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 24.1:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 24.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 24.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 24.4:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 24.5:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 24.6:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 25.1:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 25.2:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 25.3:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 25.4:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 25.5:
+        non_striker: CA Pujara
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 25.6:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 26.1:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 26.2:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 26.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 26.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 26.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 26.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 27.1:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 27.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 27.3:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 27.4:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Pujara
+    - 27.5:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 27.6:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 28.1:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 28.2:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 28.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 28.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 28.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 28.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 29.1:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 29.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 29.3:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 29.4:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 29.5:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 29.6:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 30.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 30.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 30.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 30.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 30.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 30.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 31.1:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 31.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 31.3:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 31.4:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 31.5:
+        non_striker: CA Pujara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 31.6:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 32.1:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 32.2:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 32.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CA Pujara
+    - 32.4:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 32.5:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 32.6:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 33.1:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 33.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 33.3:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 33.4:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Pujara
+    - 33.5:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 33.6:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 34.1:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 34.2:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 34.3:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 34.4:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 34.5:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 34.6:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 35.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 35.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 35.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 35.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 35.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 35.6:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 36.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 36.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 36.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 36.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 36.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 36.6:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 37.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 37.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 37.3:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 37.4:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 37.5:
+        non_striker: CA Pujara
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 37.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 38.1:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 38.2:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 38.3:
+        non_striker: CA Pujara
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 38.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Pujara
+    - 38.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+    - 38.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Pujara
+    - 39.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Pujara
+        wicket:
+          player_out: CA Pujara
+          fielders:
+          - Shadman Islam
+          kind: caught
+    - 39.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 39.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AM Rahane
+    - 39.4:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 39.5:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 39.6:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 40.1:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 40.2:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 40.3:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 40.4:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 40.5:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 40.6:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 41.1:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 41.2:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 41.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 41.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 41.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 41.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Rahane
+    - 41.7:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 42.1:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 42.2:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 42.3:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 42.4:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 42.5:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 42.6:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 43.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 43.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AM Rahane
+    - 43.3:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 43.4:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 43.5:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 43.6:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: V Kohli
+    - 44.1:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 44.2:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 44.3:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 44.4:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 44.5:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 44.6:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 45.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 45.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 45.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 45.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 45.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 45.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 46.1:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 46.2:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 46.3:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 46.4:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 46.5:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 46.6:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 47.1:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 47.2:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 47.3:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 47.4:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 47.5:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 47.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 48.1:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 48.2:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 48.3:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 48.4:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 48.5:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 48.6:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 49.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 49.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 49.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 49.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 49.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 49.6:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 50.1:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 50.2:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 50.3:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 50.4:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 50.5:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 50.6:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 51.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 51.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 51.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 51.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 51.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 51.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 52.1:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 52.2:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 52.3:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 52.4:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 52.5:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 52.6:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 53.1:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 53.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 53.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Rahane
+    - 53.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 53.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 53.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 54.1:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 54.2:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 54.3:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 54.4:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 54.5:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 54.6:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 55.1:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 55.2:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 55.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 55.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 55.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 55.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 56.1:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 56.2:
+        non_striker: V Kohli
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 56.3:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 56.4:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 56.5:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 56.6:
+        non_striker: AM Rahane
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 57.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 57.2:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 57.3:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 57.4:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 57.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 57.6:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 58.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 58.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 58.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 58.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 58.5:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 58.6:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 59.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 59.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 59.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 59.4:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 59.5:
+        non_striker: AM Rahane
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 59.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 60.1:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 60.2:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: V Kohli
+    - 60.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 60.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 60.5:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 60.6:
+        non_striker: AM Rahane
+        bowler: Ebadat Hossain
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: V Kohli
+    - 61.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+        wicket:
+          player_out: AM Rahane
+          fielders:
+          - Ebadat Hossain
+          kind: caught
+    - 61.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 61.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 61.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RA Jadeja
+    - 61.5:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 61.6:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 62.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 62.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 62.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 62.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 62.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 62.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 63.1:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 63.2:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 63.3:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 63.4:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 63.5:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 63.6:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 64.1:
+        non_striker: RA Jadeja
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 64.2:
+        non_striker: RA Jadeja
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 64.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 64.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 64.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 64.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 65.1:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 65.2:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 65.3:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 65.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 65.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 65.6:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 66.1:
+        non_striker: RA Jadeja
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 66.2:
+        non_striker: RA Jadeja
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 66.3:
+        non_striker: RA Jadeja
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 66.4:
+        non_striker: RA Jadeja
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 66.5:
+        non_striker: RA Jadeja
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 66.6:
+        non_striker: RA Jadeja
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 67.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 67.2:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 67.3:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 67.4:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 67.5:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 67.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 68.1:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 68.2:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 68.3:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 68.4:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 68.5:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 68.6:
+        non_striker: V Kohli
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 69.1:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 69.2:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 69.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 69.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 69.5:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 69.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 70.1:
+        non_striker: RA Jadeja
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 70.2:
+        non_striker: RA Jadeja
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 70.3:
+        non_striker: RA Jadeja
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 70.4:
+        non_striker: RA Jadeja
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 70.5:
+        non_striker: RA Jadeja
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 70.6:
+        non_striker: RA Jadeja
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 71.1:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 71.2:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 71.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 71.4:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 71.5:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 71.6:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 72.1:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 72.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 72.3:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 72.4:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 72.5:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 72.6:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 73.1:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 73.2:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 73.3:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 73.4:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 73.5:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 73.6:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 74.1:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 74.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 74.3:
+        non_striker: RA Jadeja
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 74.4:
+        non_striker: RA Jadeja
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 74.5:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 74.6:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 75.1:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 75.2:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 75.3:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 75.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 75.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 75.6:
+        non_striker: RA Jadeja
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 76.1:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 76.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+        wicket:
+          player_out: RA Jadeja
+          kind: bowled
+    - 76.3:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 76.4:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WP Saha
+    - 76.5:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 76.6:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WP Saha
+    - 77.1:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 77.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 77.3:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 77.4:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 77.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 77.6:
+        non_striker: WP Saha
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 78.1:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 78.2:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 78.3:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 78.4:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 78.5:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 78.6:
+        non_striker: V Kohli
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 79.1:
+        non_striker: WP Saha
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 79.2:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 79.3:
+        non_striker: WP Saha
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 79.4:
+        non_striker: WP Saha
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 79.5:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WP Saha
+    - 79.6:
+        non_striker: V Kohli
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 80.1:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 80.2:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 80.3:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - Taijul Islam
+          kind: caught
+    - 80.4:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Ashwin
+    - 80.5:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 80.6:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 81.1:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 81.2:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 81.3:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 81.4:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 81.5:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 81.6:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 82.1:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 82.2:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 82.3:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 82.4:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WP Saha
+    - 82.5:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 82.6:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 82.7:
+        non_striker: R Ashwin
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 83.1:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 83.2:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 83.3:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 83.4:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 83.5:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 83.6:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ashwin
+    - 84.1:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: R Ashwin
+    - 84.2:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ashwin
+    - 84.3:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ashwin
+    - 84.4:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 84.5:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Ashwin
+    - 84.6:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: R Ashwin
+    - 84.7:
+        non_striker: WP Saha
+        bowler: Ebadat Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 85.1:
+        non_striker: R Ashwin
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 85.2:
+        non_striker: R Ashwin
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 85.3:
+        non_striker: R Ashwin
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 85.4:
+        non_striker: R Ashwin
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 85.5:
+        non_striker: WP Saha
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+    - 85.6:
+        non_striker: WP Saha
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ashwin
+        wicket:
+          player_out: R Ashwin
+          kind: lbw
+    - 86.1:
+        non_striker: UT Yadav
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 86.2:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 86.3:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+    - 86.4:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Yadav
+        wicket:
+          player_out: UT Yadav
+          fielders:
+          - Shadman Islam
+          kind: caught
+    - 86.5:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Sharma
+    - 86.6:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Sharma
+    - 87.1:
+        non_striker: I Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 87.2:
+        non_striker: I Sharma
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 87.3:
+        non_striker: WP Saha
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Sharma
+        wicket:
+          player_out: I Sharma
+          kind: lbw
+    - 87.4:
+        non_striker: WP Saha
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Shami
+    - 87.5:
+        non_striker: WP Saha
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Mohammed Shami
+    - 87.6:
+        non_striker: WP Saha
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Shami
+    - 87.7:
+        non_striker: WP Saha
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Shami
+    - 88.1:
+        non_striker: Mohammed Shami
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 88.2:
+        non_striker: Mohammed Shami
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 88.3:
+        non_striker: Mohammed Shami
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 88.4:
+        non_striker: Mohammed Shami
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Saha
+    - 88.5:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Shami
+    - 88.6:
+        non_striker: WP Saha
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Shami
+    - 89.1:
+        non_striker: Mohammed Shami
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 89.2:
+        non_striker: Mohammed Shami
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 89.3:
+        non_striker: Mohammed Shami
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    - 89.4:
+        non_striker: Mohammed Shami
+        bowler: Al-Amin Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Saha
+    declared: 'yes'
+- 3rd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.2:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.3:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.4:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+    - 0.5:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadman Islam
+        wicket:
+          player_out: Shadman Islam
+          kind: lbw
+    - 0.6:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 1.1:
+        non_striker: Mominul Haque
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.2:
+        non_striker: Mominul Haque
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.3:
+        non_striker: Mominul Haque
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.4:
+        non_striker: Mominul Haque
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.5:
+        non_striker: Mominul Haque
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.6:
+        non_striker: Mominul Haque
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 2.1:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 2.2:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 2.3:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 2.4:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 2.5:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+        wicket:
+          player_out: Mominul Haque
+          fielders:
+          - WP Saha
+          kind: caught
+    - 2.6:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Mithun
+    - 3.1:
+        non_striker: Mohammad Mithun
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 3.2:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 3.3:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 3.4:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 3.5:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 3.6:
+        non_striker: Mohammad Mithun
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 4.1:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 4.2:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 4.3:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 4.4:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 4.5:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 4.6:
+        non_striker: Mohammad Mithun
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 5.1:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Mithun
+    - 5.2:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+        wicket:
+          player_out: Mohammad Mithun
+          fielders:
+          - Mohammed Shami
+          kind: caught
+    - 5.3:
+        non_striker: Imrul Kayes
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 5.4:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 5.5:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 5.6:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.1:
+        non_striker: Imrul Kayes
+        bowler: I Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mushfiqur Rahim
+    - 6.2:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.3:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.4:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+        wicket:
+          player_out: Imrul Kayes
+          fielders:
+          - V Kohli
+          kind: caught
+    - 6.5:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 6.6:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 7.1:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 7.2:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 7.3:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 7.4:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mushfiqur Rahim
+    - 7.5:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 7.6:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 8.1:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Mushfiqur Rahim
+    - 8.2:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 8.3:
+        non_striker: Mahmudullah
+        bowler: I Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mushfiqur Rahim
+    - 8.4:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 8.5:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 8.6:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 9.1:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 9.2:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 9.3:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 9.4:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 9.5:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 9.6:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 10.1:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 10.2:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 10.3:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 10.4:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 10.5:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 10.6:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 11.1:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.2:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.3:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.4:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 11.5:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.6:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 12.1:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 12.2:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 12.3:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 12.4:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.5:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 12.6:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 13.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 13.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 13.6:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 14.1:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.2:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 14.3:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mushfiqur Rahim
+    - 14.4:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.5:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.6:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 15.1:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 15.2:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 15.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 15.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 15.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 15.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 16.1:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 16.2:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 16.3:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 16.4:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 16.5:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 16.6:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 17.1:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 17.2:
+        non_striker: Mahmudullah
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 17.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 17.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 17.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 17.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 18.1:
+        non_striker: Mahmudullah
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 18.2:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 18.3:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          kind: retired hurt
+    - 18.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 18.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 18.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 19.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 19.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 19.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 19.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 19.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 19.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Mehedi Hasan Miraz
+    - 20.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 20.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 20.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 20.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 20.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 20.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 21.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 21.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 21.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Mehedi Hasan Miraz
+    - 21.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 21.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 21.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 21.7:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 22.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 22.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 22.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 22.4:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 22.5:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 22.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 23.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 23.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 23.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 23.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 23.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mehedi Hasan Miraz
+    - 23.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 24.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 24.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 24.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 24.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 24.5:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 24.6:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 25.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 25.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 25.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 25.4:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 25.5:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 25.6:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Mehedi Hasan Miraz
+          fielders:
+          - V Kohli
+          kind: caught
+    - 26.1:
+        non_striker: Taijul Islam
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 26.2:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 26.3:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 26.4:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 26.5:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 26.6:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 27.1:
+        non_striker: Taijul Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 27.2:
+        non_striker: Taijul Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 27.3:
+        non_striker: Taijul Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 27.4:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taijul Islam
+    - 27.5:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taijul Islam
+    - 27.6:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 28.1:
+        non_striker: Taijul Islam
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 28.2:
+        non_striker: Taijul Islam
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 28.3:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 28.4:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 28.5:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 28.6:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 29.1:
+        non_striker: Taijul Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 29.2:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 29.3:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 29.4:
+        non_striker: Taijul Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 29.5:
+        non_striker: Taijul Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 29.6:
+        non_striker: Taijul Islam
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 30.1:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 30.2:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taijul Islam
+    - 30.3:
+        non_striker: Mushfiqur Rahim
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 30.4:
+        non_striker: Taijul Islam
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 30.5:
+        non_striker: Taijul Islam
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 30.6:
+        non_striker: Taijul Islam
+        bowler: R Ashwin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 31.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 31.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 31.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 31.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 31.5:
+        non_striker: Taijul Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 31.6:
+        non_striker: Taijul Islam
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 32.1:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 32.2:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 32.3:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+        wicket:
+          player_out: Taijul Islam
+          fielders:
+          - AM Rahane
+          kind: caught
+    - 32.4:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+    - 32.5:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+    - 32.6:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+    - 33.1:
+        non_striker: Ebadat Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 33.2:
+        non_striker: Ebadat Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 33.3:
+        non_striker: Ebadat Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 33.4:
+        non_striker: Ebadat Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 33.5:
+        non_striker: Ebadat Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 33.6:
+        non_striker: Ebadat Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 34.1:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ebadat Hossain
+        wicket:
+          player_out: Ebadat Hossain
+          fielders:
+          - V Kohli
+          kind: caught
+    - 34.2:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 34.3:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 34.4:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Al-Amin Hossain
+    - 34.5:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 34.6:
+        non_striker: Mushfiqur Rahim
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Al-Amin Hossain
+    - 35.1:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 35.2:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 35.3:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 35.4:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 35.5:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 35.6:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 36.1:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 36.2:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 36.3:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 36.4:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 36.5:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 36.6:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 37.1:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 37.2:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Al-Amin Hossain
+    - 37.3:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 37.4:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 37.5:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 37.6:
+        non_striker: Mushfiqur Rahim
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Al-Amin Hossain
+    - 38.1:
+        non_striker: Al-Amin Hossain
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 38.2:
+        non_striker: Al-Amin Hossain
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 38.3:
+        non_striker: Al-Amin Hossain
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 38.4:
+        non_striker: Al-Amin Hossain
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 38.5:
+        non_striker: Al-Amin Hossain
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mushfiqur Rahim
+    - 38.6:
+        non_striker: Mushfiqur Rahim
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 39.1:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 39.2:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 39.3:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 39.4:
+        non_striker: Al-Amin Hossain
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abu Jayed
+    - 39.5:
+        non_striker: Abu Jayed
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Al-Amin Hossain
+    - 39.6:
+        non_striker: Abu Jayed
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 40.1:
+        non_striker: Al-Amin Hossain
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abu Jayed
+    - 40.2:
+        non_striker: Abu Jayed
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 40.3:
+        non_striker: Abu Jayed
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 40.4:
+        non_striker: Abu Jayed
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Al-Amin Hossain
+    - 40.5:
+        non_striker: Abu Jayed
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+    - 40.6:
+        non_striker: Abu Jayed
+        bowler: I Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Al-Amin Hossain
+    - 41.1:
+        non_striker: Abu Jayed
+        bowler: UT Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al-Amin Hossain
+        wicket:
+          player_out: Al-Amin Hossain
+          fielders:
+          - WP Saha
+          kind: caught
