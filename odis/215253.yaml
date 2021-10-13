@@ -1,0 +1,8535 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-12-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2005-08-07'
+  - '2005-08-08'
+  gender: male
+  match_type: Test
+  match_type_number: 1759
+  outcome:
+    winner: New Zealand
+    by:
+      innings: 1
+      runs: 294
+  player_of_match:
+  - DL Vettori
+  players:
+    New Zealand:
+    - JAH Marshall
+    - L Vincent
+    - HJH Marshall
+    - SP Fleming
+    - NJ Astle
+    - SB Styris
+    - BB McCullum
+    - DL Vettori
+    - JEC Franklin
+    - SE Bond
+    - CS Martin
+    Zimbabwe:
+    - NR Ferreira
+    - BRM Taylor
+    - DD Ebrahim
+    - H Masakadza
+    - CB Wishart
+    - SV Carlisle
+    - T Taibu
+    - HH Streak
+    - NB Mahwire
+    - AG Cremer
+    - CB Mpofu
+  registry:
+    people:
+      AG Cremer: 9f0270e0
+      BB McCullum: b8a55852
+      BC Broad: d6a7dd38
+      BRM Taylor: 53597be1
+      CB Mpofu: 49691d7a
+      CB Wishart: 8319b9ea
+      CS Martin: 05e0fab5
+      DB Hair: 492e1a8e
+      DD Ebrahim: b590a4d8
+      DL Vettori: d7c6af50
+      H Masakadza: 31fbf891
+      HH Streak: 37f501d7
+      HJH Marshall: 70542bef
+      JAH Marshall: fdac5295
+      JEC Franklin: cf73ad76
+      KC Barbour: 4359f89a
+      L Vincent: 2764133a
+      MR Benson: 790e14d3
+      NB Mahwire: 0cc343b0
+      NJ Astle: 99639abf
+      NR Ferreira: 3afbcc19
+      SB Styris: 57efa3be
+      SE Bond: 4f629497
+      SP Fleming: eea6b7f1
+      SV Carlisle: 17f552bf
+      T Taibu: 75de770f
+  teams:
+  - New Zealand
+  - Zimbabwe
+  toss:
+    decision: field
+    winner: Zimbabwe
+  umpires:
+  - DB Hair
+  - MR Benson
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 0.2:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 0.3:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 0.4:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 0.5:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 0.6:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 1.1:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 1.2:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Vincent
+    - 1.3:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 1.4:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Vincent
+    - 1.5:
+        non_striker: L Vincent
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAH Marshall
+    - 1.6:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 1.7:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 2.1:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 2.2:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 2.3:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JAH Marshall
+    - 2.4:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 2.5:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 2.6:
+        non_striker: L Vincent
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 3.1:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 3.2:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 3.3:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 3.4:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 3.5:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 3.6:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Vincent
+    - 4.1:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 4.2:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Vincent
+    - 4.3:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 4.4:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 4.5:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 4.6:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 5.1:
+        non_striker: L Vincent
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 5.2:
+        non_striker: L Vincent
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 5.3:
+        non_striker: L Vincent
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 5.4:
+        non_striker: L Vincent
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 5.5:
+        non_striker: L Vincent
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 5.6:
+        non_striker: L Vincent
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+    - 6.1:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 6.2:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 6.3:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 6.4:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Vincent
+    - 6.5:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Vincent
+    - 6.6:
+        non_striker: JAH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Vincent
+    - 7.1:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+    - 7.2:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Vincent
+        wicket:
+          player_out: L Vincent
+          fielders:
+          - SV Carlisle
+          kind: caught
+    - 7.3:
+        non_striker: JAH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HJH Marshall
+    - 7.4:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAH Marshall
+        wicket:
+          player_out: JAH Marshall
+          fielders:
+          - T Taibu
+          kind: caught
+    - 7.5:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 7.6:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 8.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 8.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 8.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 8.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 8.5:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 8.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 9.1:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 9.2:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 9.3:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 9.4:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJH Marshall
+    - 9.5:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 9.6:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 10.1:
+        non_striker: HJH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 10.2:
+        non_striker: HJH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 10.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJH Marshall
+    - 10.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 10.5:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 10.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 11.1:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 11.2:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 11.3:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 11.4:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 11.5:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 11.6:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 12.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 12.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HJH Marshall
+    - 12.3:
+        non_striker: HJH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 12.4:
+        non_striker: HJH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 12.5:
+        non_striker: HJH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 12.6:
+        non_striker: HJH Marshall
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 13.1:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJH Marshall
+    - 13.2:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJH Marshall
+    - 13.3:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 13.4:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 13.5:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 13.6:
+        non_striker: HJH Marshall
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 14.1:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 14.2:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJH Marshall
+    - 14.3:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJH Marshall
+    - 14.4:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 14.5:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 14.6:
+        non_striker: HJH Marshall
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 15.1:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 15.2:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 15.3:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+    - 15.4:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJH Marshall
+        wicket:
+          player_out: HJH Marshall
+          kind: lbw
+    - 15.5:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 15.6:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 16.1:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 16.2:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Fleming
+    - 16.3:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 16.4:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 16.5:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 16.6:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 17.1:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 17.2:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 17.3:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Astle
+    - 17.4:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SP Fleming
+    - 17.5:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 17.6:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 17.7:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 18.1:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 18.2:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 18.3:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Astle
+    - 18.4:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 18.5:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Astle
+    - 18.6:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 19.1:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 19.2:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Astle
+    - 19.3:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 19.4:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 19.5:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Astle
+    - 19.6:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 20.1:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 20.2:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 20.3:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 20.4:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SP Fleming
+    - 20.5:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 20.6:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 20.7:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 21.1:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 21.2:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 21.3:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 21.4:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 21.5:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Astle
+    - 21.6:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 22.1:
+        non_striker: NJ Astle
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 22.2:
+        non_striker: NJ Astle
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 22.3:
+        non_striker: NJ Astle
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 22.4:
+        non_striker: NJ Astle
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 22.5:
+        non_striker: NJ Astle
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 22.6:
+        non_striker: NJ Astle
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 23.1:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 23.2:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 23.3:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 23.4:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Astle
+    - 23.5:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 23.6:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 24.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 24.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 24.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 24.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 24.5:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 24.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 25.1:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 25.2:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 25.3:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 25.4:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 25.5:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 25.6:
+        non_striker: NJ Astle
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 26.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NJ Astle
+    - 26.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 26.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 26.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Astle
+    - 26.5:
+        non_striker: NJ Astle
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 26.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 27.1:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 27.2:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 27.3:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 27.4:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 27.5:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 27.6:
+        non_striker: NJ Astle
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 28.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 28.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NJ Astle
+    - 28.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 28.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 28.5:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+    - 28.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Astle
+        wicket:
+          player_out: NJ Astle
+          fielders:
+          - BRM Taylor
+          kind: caught
+    - 29.1:
+        non_striker: SB Styris
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 29.2:
+        non_striker: SB Styris
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 29.3:
+        non_striker: SB Styris
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 29.4:
+        non_striker: SB Styris
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 29.5:
+        non_striker: SB Styris
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 29.6:
+        non_striker: SB Styris
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 30.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 30.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Styris
+    - 30.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Styris
+    - 30.4:
+        non_striker: SB Styris
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 30.5:
+        non_striker: SB Styris
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 30.6:
+        non_striker: SB Styris
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Fleming
+    - 31.1:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 31.2:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 31.3:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 31.4:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 31.5:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 31.6:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Styris
+    - 32.1:
+        non_striker: SB Styris
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+        wicket:
+          player_out: SB Styris
+          kind: run out
+    - 32.2:
+        non_striker: BB McCullum
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 32.3:
+        non_striker: BB McCullum
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 32.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 32.5:
+        non_striker: BB McCullum
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 32.6:
+        non_striker: BB McCullum
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 33.1:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 33.2:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 33.3:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 33.4:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 33.5:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 33.6:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 34.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 34.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 34.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 34.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 34.5:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 34.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 35.1:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 35.2:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 35.3:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 35.4:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 35.5:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BB McCullum
+    - 35.6:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 36.1:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 36.2:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 36.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          role:
+          - in: HH Streak
+            out: CB Mpofu
+            reason: unknown
+            role: bowler
+        batsman: BB McCullum
+    - 36.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 36.5:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 36.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BB McCullum
+    - 37.1:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 37.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 37.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 37.4:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 37.5:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 37.6:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 38.1:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 38.2:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 38.3:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 38.4:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 38.5:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 38.6:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 39.1:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 39.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 39.3:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 39.4:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BB McCullum
+    - 39.5:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 39.6:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 40.1:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 40.2:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 40.3:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 40.4:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 40.5:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 40.6:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 41.1:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 41.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 41.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 41.4:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 41.5:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 41.6:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 42.1:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 42.2:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 42.3:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 42.4:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 42.5:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 42.6:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 43.1:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 43.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 43.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 43.4:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 43.5:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 43.6:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 44.1:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 44.2:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 44.3:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SP Fleming
+    - 44.4:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 44.5:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 44.6:
+        non_striker: SP Fleming
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 45.1:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Fleming
+    - 45.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 45.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 45.4:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 45.5:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SP Fleming
+    - 45.6:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 46.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 46.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 46.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 46.4:
+        non_striker: BB McCullum
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 46.5:
+        non_striker: BB McCullum
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 46.6:
+        non_striker: BB McCullum
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 47.1:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 47.2:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 47.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 47.4:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 47.5:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 47.6:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 48.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 48.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 48.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 48.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 48.5:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 48.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 49.1:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 49.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 49.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 49.4:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 49.5:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 49.6:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BB McCullum
+    - 50.1:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 50.2:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 50.3:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 50.4:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 50.5:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 50.6:
+        non_striker: SP Fleming
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 51.1:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 51.2:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 51.3:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 51.4:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 51.5:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 51.6:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 52.1:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 52.2:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 52.3:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 52.4:
+        non_striker: SP Fleming
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 52.5:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 52.6:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 53.1:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 53.2:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 53.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 53.4:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 53.5:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 53.6:
+        non_striker: SP Fleming
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 54.1:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+        wicket:
+          player_out: SP Fleming
+          fielders:
+          - SV Carlisle
+          kind: caught
+    - 54.2:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 54.3:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 54.4:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 54.5:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 54.6:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 55.1:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 55.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 55.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 55.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 55.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 55.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 56.1:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 56.2:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 56.3:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 56.4:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 56.5:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 56.6:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 57.1:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 57.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 57.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 57.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 57.5:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 57.6:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 58.1:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 58.2:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 58.3:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 58.4:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 58.5:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 58.6:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 59.1:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 59.2:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 59.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 59.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 59.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 59.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 60.1:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 60.2:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 60.3:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 60.4:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 60.5:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 60.6:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BB McCullum
+    - 60.7:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BB McCullum
+    - 61.1:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 61.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 61.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 61.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 61.5:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 61.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 62.1:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 62.2:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 62.3:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 62.4:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 62.5:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 62.6:
+        non_striker: BB McCullum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 63.1:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 63.2:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 63.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 63.4:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DL Vettori
+    - 63.5:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 63.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 64.1:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 64.2:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 64.3:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 64.4:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 64.5:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 64.6:
+        non_striker: BB McCullum
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 65.1:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 65.2:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 65.3:
+        non_striker: BB McCullum
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 65.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 65.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 65.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BB McCullum
+    - 65.7:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 66.1:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 66.2:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 66.3:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: BB McCullum
+    - 66.4:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+        wicket:
+          player_out: BB McCullum
+          fielders:
+          - AG Cremer
+          kind: caught
+    - 66.5:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 66.6:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 66.7:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 67.1:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 67.2:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 67.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 67.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 67.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JEC Franklin
+    - 67.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 68.1:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 68.2:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 68.3:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 68.4:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 68.5:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 68.6:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 69.1:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 69.2:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 69.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 69.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 69.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEC Franklin
+    - 69.6:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 70.1:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 70.2:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 70.3:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 70.4:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 70.5:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 70.6:
+        non_striker: JEC Franklin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 71.1:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: JEC Franklin
+    - 71.2:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 71.3:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DL Vettori
+    - 71.4:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 71.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEC Franklin
+    - 71.6:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 72.1:
+        non_striker: JEC Franklin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 72.2:
+        non_striker: JEC Franklin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 72.3:
+        non_striker: JEC Franklin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 72.4:
+        non_striker: JEC Franklin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 72.5:
+        non_striker: JEC Franklin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 72.6:
+        non_striker: JEC Franklin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 73.1:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 73.2:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 73.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 73.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEC Franklin
+    - 73.5:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 73.6:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 74.1:
+        non_striker: JEC Franklin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 74.2:
+        non_striker: JEC Franklin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 74.3:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 74.4:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 74.5:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 74.6:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 75.1:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 75.2:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 75.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 75.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 75.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 75.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JEC Franklin
+    - 76.1:
+        non_striker: DL Vettori
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEC Franklin
+    - 76.2:
+        non_striker: JEC Franklin
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 76.3:
+        non_striker: JEC Franklin
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 76.4:
+        non_striker: JEC Franklin
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 76.5:
+        non_striker: JEC Franklin
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 76.6:
+        non_striker: JEC Franklin
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 77.1:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Vettori
+    - 77.2:
+        non_striker: JEC Franklin
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 77.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+    - 77.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JEC Franklin
+    - 77.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEC Franklin
+        wicket:
+          player_out: JEC Franklin
+          kind: bowled
+    - 77.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Bond
+    - 78.1:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 78.2:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DL Vettori
+    - 78.3:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 78.4:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 78.5:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 78.6:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 79.1:
+        non_striker: SE Bond
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 79.2:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 79.3:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 79.4:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 79.5:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 79.6:
+        non_striker: DL Vettori
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 80.1:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 80.2:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 80.3:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 80.4:
+        non_striker: DL Vettori
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bond
+    - 80.5:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 80.6:
+        non_striker: SE Bond
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 81.1:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 81.2:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Bond
+    - 81.3:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 81.4:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Bond
+    - 81.5:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Bond
+    - 81.6:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 82.1:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 82.2:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 82.3:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 82.4:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Bond
+    - 82.5:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Bond
+    - 82.6:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 83.1:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DL Vettori
+    - 83.2:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 83.3:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 83.4:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 83.5:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 83.6:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bond
+    - 83.7:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 84.1:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 84.2:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 84.3:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 84.4:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 84.5:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 84.6:
+        non_striker: DL Vettori
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 85.1:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 85.2:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bond
+    - 85.3:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 85.4:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 85.5:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 85.6:
+        non_striker: DL Vettori
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 86.1:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 86.2:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 86.3:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 86.4:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+        wicket:
+          player_out: DL Vettori
+          kind: bowled
+    - 86.5:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Martin
+    - 86.6:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Martin
+    - 87.1:
+        non_striker: CS Martin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 87.2:
+        non_striker: CS Martin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Bond
+    - 87.3:
+        non_striker: CS Martin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Bond
+    - 87.4:
+        non_striker: CS Martin
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bond
+    - 87.5:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Martin
+    - 87.6:
+        non_striker: SE Bond
+        bowler: NB Mahwire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Martin
+    - 88.1:
+        non_striker: CS Martin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bond
+    - 88.2:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Martin
+    - 88.3:
+        non_striker: CS Martin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 88.4:
+        non_striker: CS Martin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bond
+    - 88.5:
+        non_striker: SE Bond
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CS Martin
+    - 88.6:
+        non_striker: CS Martin
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Bond
+    declared: 'yes'
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: NR Ferreira
+    - 0.2:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 0.3:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Ferreira
+    - 0.4:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 0.5:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 0.6:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.1:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NR Ferreira
+    - 1.2:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.3:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.4:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.5:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.6:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: BRM Taylor
+    - 1.7:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 2.1:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 2.2:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 2.3:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 2.4:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 2.5:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 2.6:
+        non_striker: NR Ferreira
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 3.1:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 3.2:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NR Ferreira
+    - 3.3:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 3.4:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+        wicket:
+          player_out: NR Ferreira
+          fielders:
+          - BB McCullum
+          kind: caught
+    - 3.5:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+        wicket:
+          player_out: DD Ebrahim
+          kind: lbw
+    - 3.6:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Masakadza
+    - 3.7:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+        wicket:
+          player_out: H Masakadza
+          kind: lbw
+    - 3.8:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 4.1:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 4.2:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 4.3:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 4.4:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 4.5:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+        wicket:
+          player_out: CB Wishart
+          kind: bowled
+    - 4.6:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 5.1:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 5.2:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 5.3:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 5.4:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 5.5:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 5.6:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 6.1:
+        non_striker: SV Carlisle
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BRM Taylor
+    - 6.2:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 6.3:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 6.4:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 6.5:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 6.6:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 7.1:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.2:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BRM Taylor
+    - 7.3:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.4:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.5:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.6:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.7:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 8.1:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 8.2:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 8.3:
+        non_striker: SV Carlisle
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 8.4:
+        non_striker: SV Carlisle
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 8.5:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 8.6:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SV Carlisle
+    - 9.1:
+        non_striker: BRM Taylor
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 9.2:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 9.3:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 9.4:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 9.5:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 9.6:
+        non_striker: SV Carlisle
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 10.1:
+        non_striker: BRM Taylor
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 10.2:
+        non_striker: BRM Taylor
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 10.3:
+        non_striker: BRM Taylor
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 10.4:
+        non_striker: BRM Taylor
+        bowler: CS Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Carlisle
+    - 10.5:
+        non_striker: BRM Taylor
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SV Carlisle
+    - 10.6:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 10.7:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 11.1:
+        non_striker: BRM Taylor
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 11.2:
+        non_striker: BRM Taylor
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 11.3:
+        non_striker: BRM Taylor
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 11.4:
+        non_striker: BRM Taylor
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+        wicket:
+          player_out: BRM Taylor
+          kind: run out
+    - 11.5:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 11.6:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 12.1:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 12.2:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 12.3:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 12.4:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 12.5:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 12.6:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 13.1:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 13.2:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 13.3:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 13.4:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 13.5:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 13.6:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Carlisle
+    - 14.1:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 14.2:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 14.3:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 14.4:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 14.5:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 14.6:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 15.1:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 15.2:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 15.3:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 15.4:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 15.5:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 15.6:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 16.1:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Carlisle
+    - 16.2:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 16.3:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 16.4:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 16.5:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 16.6:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 17.1:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.2:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 17.3:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.4:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.5:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.6:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 18.1:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 18.2:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 18.3:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SV Carlisle
+    - 18.4:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 18.5:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 18.6:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 19.1:
+        non_striker: T Taibu
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 19.2:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 19.3:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 19.4:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 19.5:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 19.6:
+        non_striker: SV Carlisle
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.1:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 20.2:
+        non_striker: T Taibu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 20.3:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.4:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.5:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+        wicket:
+          player_out: T Taibu
+          kind: lbw
+    - 20.6:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+        wicket:
+          player_out: HH Streak
+          fielders:
+          - BB McCullum
+          kind: caught
+    - 21.1:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 21.2:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 21.3:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 21.4:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 21.5:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 21.6:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 22.1:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 22.2:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 22.3:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NB Mahwire
+    - 22.4:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NB Mahwire
+    - 22.5:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 22.6:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 22.7:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 23.1:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 23.2:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 23.3:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 23.4:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 23.5:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 23.6:
+        non_striker: NB Mahwire
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 24.1:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 24.2:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 24.3:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+        wicket:
+          player_out: NB Mahwire
+          kind: lbw
+    - 24.4:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 24.5:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 24.6:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Cremer
+    - 25.1:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 25.2:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 25.3:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 25.4:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 25.5:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 25.6:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 26.1:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 26.2:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 26.3:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 26.4:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 26.5:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SV Carlisle
+    - 26.6:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 26.7:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 27.1:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 27.2:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 27.3:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 27.4:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+        wicket:
+          player_out: AG Cremer
+          fielders:
+          - CS Martin
+          kind: caught
+    - 27.5:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 27.6:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 28.1:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 28.2:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 28.3:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 28.4:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 28.5:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 28.6:
+        non_striker: SV Carlisle
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 29.1:
+        non_striker: CB Mpofu
+        bowler: DL Vettori
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SV Carlisle
+    - 29.2:
+        non_striker: CB Mpofu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 29.3:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 29.4:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+        wicket:
+          player_out: CB Mpofu
+          fielders:
+          - BB McCullum
+          kind: stumped
+- 3rd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 0.2:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 0.3:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 0.4:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: NR Ferreira
+    - 0.5:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: NR Ferreira
+    - 0.6:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 1.1:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.2:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.3:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BRM Taylor
+    - 1.4:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.5:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.6:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 1.7:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 2.1:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 2.2:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 2.3:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 2.4:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 2.5:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 2.6:
+        non_striker: BRM Taylor
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 3.1:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+        wicket:
+          player_out: BRM Taylor
+          fielders:
+          - DL Vettori
+          kind: caught
+    - 3.2:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 3.3:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 3.4:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 3.5:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 3.6:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.1:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 4.2:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 4.3:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 4.4:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 4.5:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 4.6:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 5.1:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 5.2:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 5.3:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 5.4:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 5.5:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 5.6:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 6.1:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 6.2:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 6.3:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 6.4:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 6.5:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 6.6:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 7.1:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.2:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.3:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.4:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.5:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.6:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 8.1:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 8.2:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 8.3:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 8.4:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 8.5:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 8.6:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 9.1:
+        non_striker: NR Ferreira
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 9.2:
+        non_striker: NR Ferreira
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 9.3:
+        non_striker: NR Ferreira
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 9.4:
+        non_striker: DD Ebrahim
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 9.5:
+        non_striker: DD Ebrahim
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 9.6:
+        non_striker: DD Ebrahim
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Ferreira
+    - 10.1:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 10.2:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 10.3:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 10.4:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 10.5:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 10.6:
+        non_striker: DD Ebrahim
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 11.1:
+        non_striker: NR Ferreira
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 11.2:
+        non_striker: DD Ebrahim
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 11.3:
+        non_striker: DD Ebrahim
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 11.4:
+        non_striker: DD Ebrahim
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 11.5:
+        non_striker: DD Ebrahim
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 11.6:
+        non_striker: DD Ebrahim
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 12.1:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 12.2:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 12.3:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+        wicket:
+          player_out: DD Ebrahim
+          kind: bowled
+    - 12.4:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 12.5:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 12.6:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 13.1:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 13.2:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 13.3:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 13.4:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Ferreira
+    - 13.5:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 13.6:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 14.1:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.2:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.3:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.4:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.5:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.6:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 15.1:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Ferreira
+    - 15.2:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 15.3:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Ferreira
+    - 15.4:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 15.5:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 15.6:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 16.1:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 16.2:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 16.3:
+        non_striker: NR Ferreira
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 16.4:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 16.5:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 16.6:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Ferreira
+    - 17.1:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 17.2:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 17.3:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 17.4:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 17.5:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 17.6:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 18.1:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 18.2:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 18.3:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 18.4:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 18.5:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 18.6:
+        non_striker: H Masakadza
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 19.1:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.2:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.3:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.4:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 19.5:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.6:
+        non_striker: NR Ferreira
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 20.1:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.2:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.3:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.4:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.5:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 20.6:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 21.1:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 21.2:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 21.3:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 21.4:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 21.5:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Ferreira
+    - 21.6:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 22.1:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 22.2:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 22.3:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 22.4:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 22.5:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 22.6:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 23.1:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 23.2:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 23.3:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 23.4:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 23.5:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 23.6:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 24.1:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 24.2:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 24.3:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 24.4:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 24.5:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 24.6:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 25.1:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 25.2:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 25.3:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 25.4:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 25.5:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 25.6:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 26.1:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 26.2:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 26.3:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 26.4:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 26.5:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 26.6:
+        non_striker: NR Ferreira
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 27.1:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: NR Ferreira
+    - 27.2:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 27.3:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 27.4:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Ferreira
+    - 27.5:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 27.6:
+        non_striker: NR Ferreira
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 28.1:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+    - 28.2:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Ferreira
+        wicket:
+          player_out: NR Ferreira
+          fielders:
+          - SP Fleming
+          kind: caught
+    - 28.3:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 28.4:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 28.5:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 28.6:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CB Wishart
+    - 28.7:
+        non_striker: H Masakadza
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 29.1:
+        non_striker: CB Wishart
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 29.2:
+        non_striker: CB Wishart
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 29.3:
+        non_striker: CB Wishart
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 29.4:
+        non_striker: CB Wishart
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 29.5:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 29.6:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 30.1:
+        non_striker: CB Wishart
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 30.2:
+        non_striker: CB Wishart
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 30.3:
+        non_striker: CB Wishart
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 30.4:
+        non_striker: CB Wishart
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 30.5:
+        non_striker: CB Wishart
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 30.6:
+        non_striker: CB Wishart
+        bowler: JEC Franklin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 31.1:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CB Wishart
+    - 31.2:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 31.3:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 31.4:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 31.5:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 31.6:
+        non_striker: H Masakadza
+        bowler: NJ Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 32.1:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 32.2:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 32.3:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 32.4:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 32.5:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 32.6:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 33.1:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 33.2:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 33.3:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Wishart
+    - 33.4:
+        non_striker: CB Wishart
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 33.5:
+        non_striker: CB Wishart
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 33.6:
+        non_striker: CB Wishart
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 34.1:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CB Wishart
+    - 34.2:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 34.3:
+        non_striker: CB Wishart
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 34.4:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 34.5:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+    - 34.6:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Wishart
+        wicket:
+          player_out: CB Wishart
+          fielders:
+          - SP Fleming
+          kind: caught
+    - 35.1:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.2:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.3:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.4:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.5:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 35.6:
+        non_striker: SV Carlisle
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 36.1:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 36.2:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 36.3:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 36.4:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+        wicket:
+          player_out: SV Carlisle
+          fielders:
+          - SP Fleming
+          kind: caught
+    - 36.5:
+        non_striker: H Masakadza
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Taibu
+    - 36.6:
+        non_striker: T Taibu
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 37.1:
+        non_striker: H Masakadza
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 37.2:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 37.3:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+        wicket:
+          player_out: H Masakadza
+          kind: caught and bowled
+    - 37.4:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 37.5:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 37.6:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 38.1:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 38.2:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 38.3:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 38.4:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 38.5:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 38.6:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 39.1:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 39.2:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 39.3:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 39.4:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 39.5:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: HH Streak
+    - 39.6:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HH Streak
+    - 39.7:
+        non_striker: HH Streak
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 39.8:
+        non_striker: HH Streak
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 40.1:
+        non_striker: T Taibu
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 40.2:
+        non_striker: T Taibu
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 40.3:
+        non_striker: T Taibu
+        bowler: SE Bond
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HH Streak
+    - 40.4:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 40.5:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 40.6:
+        non_striker: HH Streak
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 41.1:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 41.2:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 41.3:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 41.4:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 41.5:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 41.6:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 42.1:
+        non_striker: HH Streak
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 42.2:
+        non_striker: HH Streak
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 42.3:
+        non_striker: HH Streak
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 42.4:
+        non_striker: HH Streak
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 42.5:
+        non_striker: HH Streak
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 42.6:
+        non_striker: HH Streak
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 43.1:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 43.2:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 43.3:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 43.4:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 43.5:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+        wicket:
+          player_out: HH Streak
+          kind: lbw
+    - 43.6:
+        non_striker: T Taibu
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 44.1:
+        non_striker: NB Mahwire
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 44.2:
+        non_striker: NB Mahwire
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 44.3:
+        non_striker: NB Mahwire
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+        wicket:
+          player_out: T Taibu
+          fielders:
+          - SP Fleming
+          kind: caught
+    - 44.4:
+        non_striker: NB Mahwire
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 44.5:
+        non_striker: NB Mahwire
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 44.6:
+        non_striker: NB Mahwire
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 45.1:
+        non_striker: AG Cremer
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 45.2:
+        non_striker: AG Cremer
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 45.3:
+        non_striker: AG Cremer
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 45.4:
+        non_striker: AG Cremer
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 45.5:
+        non_striker: AG Cremer
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 45.6:
+        non_striker: AG Cremer
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 46.1:
+        non_striker: NB Mahwire
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 46.2:
+        non_striker: NB Mahwire
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Cremer
+    - 46.3:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NB Mahwire
+    - 46.4:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 46.5:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: NB Mahwire
+    - 46.6:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 46.7:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 46.8:
+        non_striker: AG Cremer
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NB Mahwire
+    - 47.1:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 47.2:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Cremer
+    - 47.3:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 47.4:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+        wicket:
+          player_out: AG Cremer
+          fielders:
+          - JAH Marshall
+          kind: caught
+    - 47.5:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 47.6:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 48.1:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 48.2:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 48.3:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 48.4:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 48.5:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 48.6:
+        non_striker: CB Mpofu
+        bowler: CS Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Mahwire
+    - 49.1:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 49.2:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 49.3:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 49.4:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 49.5:
+        non_striker: NB Mahwire
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+        wicket:
+          player_out: CB Mpofu
+          fielders:
+          - BB McCullum
+          kind: stumped

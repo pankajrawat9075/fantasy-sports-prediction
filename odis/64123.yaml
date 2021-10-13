@@ -1,0 +1,7907 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-12-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cape Town
+  dates:
+  - '2005-03-04'
+  - '2005-03-05'
+  gender: male
+  match_type: Test
+  match_type_number: 1737
+  outcome:
+    winner: South Africa
+    by:
+      innings: 1
+      runs: 21
+  player_of_match:
+  - JH Kallis
+  players:
+    Zimbabwe:
+    - S Matsikenyeri
+    - BG Rogers
+    - DD Ebrahim
+    - H Masakadza
+    - BRM Taylor
+    - T Taibu
+    - E Chigumbura
+    - HH Streak
+    - AM Blignaut
+    - AG Cremer
+    - CB Mpofu
+    South Africa:
+    - GC Smith
+    - AB de Villiers
+    - JA Rudolph
+    - JH Kallis
+    - HH Gibbs
+    - AG Prince
+    - MV Boucher
+    - SM Pollock
+    - N Boje
+    - M Ntini
+    - CK Langeveldt
+  registry:
+    people:
+      AB de Villiers: c4487b84
+      AG Cremer: 9f0270e0
+      AG Hurst: ad7945c6
+      AG Prince: 035cb925
+      AM Blignaut: 80ec5dfd
+      BF Bowden: efc0a862
+      BG Jerling: 26457e41
+      BG Rogers: f17971df
+      BR Doctrove: cbebf805
+      BRM Taylor: 53597be1
+      CB Mpofu: 49691d7a
+      CK Langeveldt: d1c94b25
+      DD Ebrahim: b590a4d8
+      E Chigumbura: d2babdd5
+      GC Smith: '72861603'
+      H Masakadza: 31fbf891
+      HH Gibbs: e1d1b294
+      HH Streak: 37f501d7
+      JA Rudolph: 42537f07
+      JH Kallis: 86dc8f2e
+      M Ntini: 20a941bb
+      MV Boucher: f3cb53a1
+      N Boje: 6a0537aa
+      S Matsikenyeri: e7ba1233
+      SM Pollock: 88fccd6c
+      T Taibu: 75de770f
+      WE September: 0c794f96
+  teams:
+  - Zimbabwe
+  - South Africa
+  toss:
+    decision: bat
+    winner: Zimbabwe
+  umpires:
+  - BF Bowden
+  - BR Doctrove
+  venue: Newlands
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.2:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.3:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.4:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.5:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.6:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 1.1:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 1.2:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 1.3:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 1.4:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 1.5:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 1.6:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 2.1:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 2.2:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 2.3:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 2.4:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 2.5:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 2.6:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Matsikenyeri
+    - 2.7:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 3.1:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 3.2:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 3.3:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 3.4:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 3.5:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Rogers
+    - 3.6:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 4.1:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+        wicket:
+          player_out: BG Rogers
+          fielders:
+          - MV Boucher
+          kind: caught
+    - 4.2:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.3:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.4:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.5:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.6:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 5.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 5.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 5.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Matsikenyeri
+    - 5.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 5.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 5.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 6.1:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 6.2:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 6.3:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 6.4:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DD Ebrahim
+    - 6.5:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 6.6:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 7.1:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.2:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.3:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.4:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.5:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 7.6:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 8.1:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 8.2:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 8.3:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Matsikenyeri
+    - 8.4:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 8.5:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 8.6:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 9.1:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+        wicket:
+          player_out: DD Ebrahim
+          kind: bowled
+    - 9.2:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 9.3:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 9.4:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 9.5:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 9.6:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 10.1:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 10.2:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 10.3:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 10.4:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 10.5:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 10.6:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 11.1:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 11.2:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Matsikenyeri
+    - 11.3:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 11.4:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+        wicket:
+          player_out: S Matsikenyeri
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 11.5:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 11.6:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 12.1:
+        non_striker: BRM Taylor
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 12.2:
+        non_striker: BRM Taylor
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 12.3:
+        non_striker: BRM Taylor
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 12.4:
+        non_striker: BRM Taylor
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 12.5:
+        non_striker: BRM Taylor
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 12.6:
+        non_striker: BRM Taylor
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 13.1:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 13.2:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 13.3:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 13.4:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 13.5:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 13.6:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 14.1:
+        non_striker: BRM Taylor
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.2:
+        non_striker: BRM Taylor
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.3:
+        non_striker: BRM Taylor
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.4:
+        non_striker: BRM Taylor
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.5:
+        non_striker: BRM Taylor
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.6:
+        non_striker: BRM Taylor
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 15.1:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 15.2:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 15.3:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+        wicket:
+          player_out: BRM Taylor
+          fielders:
+          - MV Boucher
+          kind: caught
+    - 15.4:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 15.5:
+        non_striker: T Taibu
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 15.6:
+        non_striker: T Taibu
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 16.1:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Taibu
+    - 16.2:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 16.3:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 16.4:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 16.5:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 16.6:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 16.7:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 17.1:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.2:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.3:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.4:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.5:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.6:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 18.1:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 18.2:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 18.3:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 18.4:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 18.5:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 18.6:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 19.1:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.2:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.3:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.4:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 19.5:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.6:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.1:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.2:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.3:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.4:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.5:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.6:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Taibu
+    - 20.7:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 21.1:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 21.2:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 21.3:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+        wicket:
+          player_out: H Masakadza
+          kind: lbw
+    - 21.4:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 21.5:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 21.6:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 22.1:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 22.2:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 22.3:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 22.4:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 22.5:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 22.6:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.1:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 23.2:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 23.3:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 23.4:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Chigumbura
+    - 23.5:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 23.6:
+        non_striker: T Taibu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 24.1:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 24.2:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 24.3:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 24.4:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 24.5:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 24.6:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 25.1:
+        non_striker: E Chigumbura
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+        wicket:
+          player_out: T Taibu
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 25.2:
+        non_striker: E Chigumbura
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 25.3:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 25.4:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 25.5:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 25.6:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+        wicket:
+          player_out: E Chigumbura
+          fielders:
+          - GC Smith
+          kind: caught
+    - 26.1:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 26.2:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 26.3:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 26.4:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 26.5:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 26.6:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 27.1:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 27.2:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 27.3:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 27.4:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 27.5:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 27.6:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Blignaut
+    - 28.1:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Streak
+    - 28.2:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 28.3:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 28.4:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 28.5:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 28.6:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 29.1:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 29.2:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 29.3:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 29.4:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 29.5:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 29.6:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 30.1:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 30.2:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 30.3:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HH Streak
+    - 30.4:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 30.5:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+        wicket:
+          player_out: HH Streak
+          fielders:
+          - MV Boucher
+          kind: caught
+    - 30.6:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 30.7:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+        wicket:
+          player_out: AG Cremer
+          fielders:
+          - JH Kallis
+          kind: caught
+    - 31.1:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Blignaut
+    - 31.2:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+        wicket:
+          player_out: AM Blignaut
+          fielders:
+          - N Boje
+          kind: caught
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 0.2:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 0.3:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 0.4:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 0.5:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 0.6:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 1.1:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 1.2:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 1.3:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 1.4:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 1.5:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 1.6:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 2.1:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 2.2:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 2.3:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 2.4:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 2.5:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 2.6:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 3.1:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 3.2:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 3.3:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.4:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 3.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 4.1:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 4.2:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 4.3:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 4.4:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 4.5:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 4.6:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 5.1:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 5.2:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 5.3:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 5.4:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GC Smith
+    - 5.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 5.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.1:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GC Smith
+    - 6.2:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.3:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.4:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.5:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 6.6:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AB de Villiers
+    - 7.1:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 7.2:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 7.3:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 7.4:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 7.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 7.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 8.1:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GC Smith
+    - 8.2:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 8.3:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 8.4:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 8.5:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 8.6:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 9.1:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 9.2:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 9.3:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 9.4:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 9.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 9.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 10.1:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 10.2:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 10.3:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 10.4:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 10.5:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 10.6:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 11.1:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 11.2:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.3:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 11.4:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 11.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 11.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 12.1:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 12.2:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 12.3:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 12.4:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 12.5:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 12.6:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 13.1:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 13.2:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 13.3:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 13.4:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 13.5:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GC Smith
+    - 13.6:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 13.7:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 14.1:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 14.2:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 14.3:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 14.4:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AB de Villiers
+    - 14.5:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 14.6:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 14.7:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AB de Villiers
+    - 14.8:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 15.1:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 15.2:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 15.3:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 15.4:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 15.5:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 15.6:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 16.1:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 16.2:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 16.3:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 16.4:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 16.5:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 16.6:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Smith
+    - 16.7:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 17.1:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 17.2:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 17.3:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 17.4:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 17.5:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 17.6:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 18.1:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 18.2:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 18.3:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 18.4:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 18.5:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 18.6:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 19.1:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 19.2:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 19.3:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 19.4:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 19.5:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 19.6:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 20.1:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 20.2:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 20.3:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 20.4:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 20.5:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 20.6:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: AB de Villiers
+    - 20.7:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AB de Villiers
+    - 21.1:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 21.2:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 21.3:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 21.4:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 21.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 21.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 22.1:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 22.2:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 22.3:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 22.4:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GC Smith
+    - 22.5:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 22.6:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 22.7:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 23.1:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 23.2:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 23.3:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 23.4:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 23.5:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 23.6:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 24.1:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 24.2:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 24.3:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 24.4:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 24.5:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 24.6:
+        non_striker: AB de Villiers
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 25.1:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 25.2:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 25.3:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 25.4:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 25.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 25.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 26.1:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 26.2:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GC Smith
+    - 26.3:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AB de Villiers
+    - 26.4:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 26.5:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 26.6:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GC Smith
+    - 27.1:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 27.2:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 27.3:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 27.4:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GC Smith
+    - 27.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 27.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 28.1:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 28.2:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 28.3:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 28.4:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 28.5:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 28.6:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 29.1:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 29.2:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 29.3:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 29.4:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 29.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 29.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 30.1:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 30.2:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 30.3:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 30.4:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 30.5:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 30.6:
+        non_striker: AB de Villiers
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GC Smith
+    - 31.1:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 31.2:
+        non_striker: AB de Villiers
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 31.3:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 31.4:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 31.5:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 31.6:
+        non_striker: GC Smith
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 32.1:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 32.2:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 32.3:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 32.4:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Smith
+    - 32.5:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 32.6:
+        non_striker: GC Smith
+        bowler: AG Cremer
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AB de Villiers
+    - 32.7:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 33.1:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 33.2:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 33.3:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 33.4:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 33.5:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 33.6:
+        non_striker: GC Smith
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 34.1:
+        non_striker: GC Smith
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 34.2:
+        non_striker: GC Smith
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 34.3:
+        non_striker: GC Smith
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 34.4:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Smith
+    - 34.5:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+        wicket:
+          player_out: GC Smith
+          fielders:
+          - H Masakadza
+          kind: caught
+    - 34.6:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 35.1:
+        non_striker: AB de Villiers
+        bowler: S Matsikenyeri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 35.2:
+        non_striker: AB de Villiers
+        bowler: S Matsikenyeri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Rudolph
+    - 35.3:
+        non_striker: AB de Villiers
+        bowler: S Matsikenyeri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 35.4:
+        non_striker: AB de Villiers
+        bowler: S Matsikenyeri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 35.5:
+        non_striker: AB de Villiers
+        bowler: S Matsikenyeri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 35.6:
+        non_striker: AB de Villiers
+        bowler: S Matsikenyeri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 36.1:
+        non_striker: JA Rudolph
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 36.2:
+        non_striker: JA Rudolph
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 36.3:
+        non_striker: JA Rudolph
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 36.4:
+        non_striker: JA Rudolph
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 36.5:
+        non_striker: JA Rudolph
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 36.6:
+        non_striker: AB de Villiers
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 37.1:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 37.2:
+        non_striker: AB de Villiers
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 37.3:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 37.4:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+    - 37.5:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+        wicket:
+          player_out: AB de Villiers
+          fielders:
+          - AM Blignaut
+          kind: caught
+    - 37.6:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 38.1:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 38.2:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 38.3:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Rudolph
+    - 38.4:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 38.5:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 38.6:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 39.1:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JH Kallis
+    - 39.2:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Kallis
+    - 39.3:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 39.4:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 39.5:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 39.6:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 40.1:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 40.2:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 40.3:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 40.4:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 40.5:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 40.6:
+        non_striker: JH Kallis
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 41.1:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JH Kallis
+    - 41.2:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JH Kallis
+    - 41.3:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JH Kallis
+    - 41.4:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Kallis
+    - 41.5:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 41.6:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 42.1:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JH Kallis
+    - 42.2:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JH Kallis
+    - 42.3:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JH Kallis
+    - 42.4:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JH Kallis
+    - 42.5:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Kallis
+    - 42.6:
+        non_striker: JH Kallis
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 42.7:
+        non_striker: JH Kallis
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 43.1:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 43.2:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Kallis
+    - 43.3:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Rudolph
+    - 43.4:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 43.5:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 43.6:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Kallis
+    - 44.1:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JH Kallis
+    - 44.2:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 44.3:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JH Kallis
+    - 44.4:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JH Kallis
+    - 44.5:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 44.6:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JH Kallis
+    - 44.7:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 45.1:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 45.2:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 45.3:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 45.4:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Kallis
+    - 45.5:
+        non_striker: JH Kallis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 45.6:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JH Kallis
+    - 46.1:
+        non_striker: JH Kallis
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 46.2:
+        non_striker: JH Kallis
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 46.3:
+        non_striker: JH Kallis
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 46.4:
+        non_striker: JH Kallis
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 46.5:
+        non_striker: JH Kallis
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Rudolph
+    - 46.6:
+        non_striker: JH Kallis
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 47.1:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+        wicket:
+          player_out: JH Kallis
+          fielders:
+          - AM Blignaut
+          kind: caught
+    - 47.2:
+        non_striker: HH Gibbs
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 47.3:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 47.4:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Gibbs
+    - 47.5:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 47.6:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 48.1:
+        non_striker: HH Gibbs
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 48.2:
+        non_striker: HH Gibbs
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 48.3:
+        non_striker: JA Rudolph
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Gibbs
+    - 48.4:
+        non_striker: HH Gibbs
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 48.5:
+        non_striker: JA Rudolph
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Gibbs
+    - 48.6:
+        non_striker: JA Rudolph
+        bowler: BRM Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 49.1:
+        non_striker: HH Gibbs
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 49.2:
+        non_striker: HH Gibbs
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 49.3:
+        non_striker: JA Rudolph
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Gibbs
+    - 49.4:
+        non_striker: HH Gibbs
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 49.5:
+        non_striker: HH Gibbs
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 49.6:
+        non_striker: HH Gibbs
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    declared: 'yes'
+- 3rd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.2:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.3:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.4:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 0.5:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Matsikenyeri
+    - 0.6:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 1.1:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 1.2:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 1.3:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 1.4:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 1.5:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Matsikenyeri
+    - 1.6:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Matsikenyeri
+    - 2.1:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 2.2:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 2.3:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 2.4:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 2.5:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Rogers
+    - 2.6:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 3.1:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: BG Rogers
+    - 3.2:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 3.3:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 3.4:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 3.5:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 3.6:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 4.1:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 4.2:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 4.3:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 4.4:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 4.5:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 4.6:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 5.1:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 5.2:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 5.3:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 5.4:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 5.5:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BG Rogers
+    - 5.6:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 6.1:
+        non_striker: S Matsikenyeri
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Rogers
+    - 6.2:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Matsikenyeri
+    - 6.3:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 6.4:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Matsikenyeri
+    - 6.5:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Matsikenyeri
+    - 6.6:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 7.1:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 7.2:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Rogers
+    - 7.3:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 7.4:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+        wicket:
+          player_out: S Matsikenyeri
+          fielders:
+          - JA Rudolph
+          kind: caught
+    - 7.5:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 7.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 8.1:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 8.2:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 8.3:
+        non_striker: BG Rogers
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 8.4:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 8.5:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Rogers
+    - 8.6:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 9.1:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 9.2:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 9.3:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 9.4:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 9.5:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 9.6:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 10.1:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 10.2:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 10.3:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 10.4:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 10.5:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 10.6:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 11.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Rogers
+    - 11.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 11.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 11.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Rogers
+    - 11.5:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 11.6:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 12.1:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 12.2:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Rogers
+    - 12.3:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DD Ebrahim
+    - 12.4:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Rogers
+    - 12.5:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Rogers
+    - 12.6:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 12.7:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Rogers
+    - 13.1:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 13.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 13.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 13.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Rogers
+    - 13.5:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 13.6:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 14.1:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 14.2:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Rogers
+    - 14.3:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 14.4:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 14.5:
+        non_striker: BG Rogers
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 14.6:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 15.1:
+        non_striker: BG Rogers
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 15.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 15.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 15.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Rogers
+    - 15.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+    - 15.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Rogers
+        wicket:
+          player_out: BG Rogers
+          fielders:
+          - MV Boucher
+          kind: caught
+    - 16.1:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 16.2:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 16.3:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 16.4:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 16.5:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 16.6:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 17.1:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 17.2:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 17.3:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 17.4:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 17.5:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 17.6:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 18.1:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 18.2:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 18.3:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 18.4:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 18.5:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 18.6:
+        non_striker: H Masakadza
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 19.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 19.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 19.3:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 19.4:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 19.5:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 19.6:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 20.1:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.2:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.3:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.4:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.5:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 20.6:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 21.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 21.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 21.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 21.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 21.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 21.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 22.1:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 22.2:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 22.3:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 22.4:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 22.5:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 22.6:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 23.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 23.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DD Ebrahim
+    - 23.3:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 23.4:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 23.5:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 23.6:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Masakadza
+    - 24.1:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 24.2:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 24.3:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 24.4:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 24.5:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 24.6:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 25.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 25.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 25.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 25.4:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 25.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 25.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 26.1:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 26.2:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 26.3:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Masakadza
+    - 26.4:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 26.5:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 26.6:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 26.7:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 27.1:
+        non_striker: H Masakadza
+        bowler: JA Rudolph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.2:
+        non_striker: H Masakadza
+        bowler: JA Rudolph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.3:
+        non_striker: H Masakadza
+        bowler: JA Rudolph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.4:
+        non_striker: H Masakadza
+        bowler: JA Rudolph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.5:
+        non_striker: H Masakadza
+        bowler: JA Rudolph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.6:
+        non_striker: H Masakadza
+        bowler: JA Rudolph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 28.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 28.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 28.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 28.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 28.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 28.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 29.1:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 29.2:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 29.3:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 29.4:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 29.5:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 29.6:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 30.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 30.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 30.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 30.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 30.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 30.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 31.1:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 31.2:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 31.3:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 31.4:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 31.5:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 31.6:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 32.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 32.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 32.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 32.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 32.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 32.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 33.1:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 33.2:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 33.3:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 33.4:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 33.5:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 33.6:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 34.1:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 34.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 34.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 34.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 34.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 34.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 35.1:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.2:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.3:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.4:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.5:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 35.6:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 36.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 36.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 36.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 36.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 36.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 36.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 37.1:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 37.2:
+        non_striker: DD Ebrahim
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 37.3:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 37.4:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 37.5:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 37.6:
+        non_striker: H Masakadza
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 38.1:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 38.2:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 38.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 38.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 38.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 38.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 39.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 39.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 39.3:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 39.4:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 39.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 39.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 40.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 40.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 40.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 40.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 40.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 40.6:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 41.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 41.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 41.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 41.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 41.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 41.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 42.1:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 42.2:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 42.3:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 42.4:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 42.5:
+        non_striker: H Masakadza
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 42.6:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 43.1:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 43.2:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 43.3:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 43.4:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 43.5:
+        non_striker: H Masakadza
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 43.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 44.1:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 44.2:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 44.3:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 44.4:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 44.5:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 44.6:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+        wicket:
+          player_out: H Masakadza
+          fielders:
+          - HH Gibbs
+          kind: caught
+    - 45.1:
+        non_striker: BRM Taylor
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 45.2:
+        non_striker: BRM Taylor
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 45.3:
+        non_striker: BRM Taylor
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 45.4:
+        non_striker: BRM Taylor
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 45.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 45.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 46.1:
+        non_striker: BRM Taylor
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 46.2:
+        non_striker: BRM Taylor
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 46.3:
+        non_striker: BRM Taylor
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 46.4:
+        non_striker: BRM Taylor
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 46.5:
+        non_striker: BRM Taylor
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 46.6:
+        non_striker: BRM Taylor
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 47.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 47.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 47.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 47.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 47.5:
+        non_striker: BRM Taylor
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 47.6:
+        non_striker: BRM Taylor
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 48.1:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 48.2:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 48.3:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+        wicket:
+          player_out: BRM Taylor
+          fielders:
+          - CK Langeveldt
+          kind: caught
+    - 48.4:
+        non_striker: T Taibu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 48.5:
+        non_striker: T Taibu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 48.6:
+        non_striker: T Taibu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 49.1:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 49.2:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 49.3:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 49.4:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 49.5:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 49.6:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 50.1:
+        non_striker: T Taibu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 50.2:
+        non_striker: T Taibu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 50.3:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 50.4:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 50.5:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 50.6:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 51.1:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 51.2:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 51.3:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 51.4:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 51.5:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 51.6:
+        non_striker: T Taibu
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 52.1:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 52.2:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 52.3:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 52.4:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 52.5:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 52.6:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 53.1:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 53.2:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 53.3:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 53.4:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 53.5:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 53.6:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+        wicket:
+          player_out: T Taibu
+          fielders:
+          - WE September (sub)
+          kind: caught
+    - 54.1:
+        non_striker: E Chigumbura
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 54.2:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 54.3:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 54.4:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 54.5:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 54.6:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 55.1:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 55.2:
+        non_striker: E Chigumbura
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 55.3:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 55.4:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 55.5:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 55.6:
+        non_striker: DD Ebrahim
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 56.1:
+        non_striker: E Chigumbura
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 56.2:
+        non_striker: E Chigumbura
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 56.3:
+        non_striker: E Chigumbura
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 56.4:
+        non_striker: E Chigumbura
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 56.5:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 56.6:
+        non_striker: DD Ebrahim
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+        wicket:
+          player_out: E Chigumbura
+          kind: bowled
+    - 57.1:
+        non_striker: HH Streak
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+        wicket:
+          player_out: DD Ebrahim
+          kind: lbw
+    - 57.2:
+        non_striker: HH Streak
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 57.3:
+        non_striker: AM Blignaut
+        bowler: CK Langeveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 57.4:
+        non_striker: AM Blignaut
+        bowler: CK Langeveldt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HH Streak
+    - 57.5:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: JH Kallis
+            out: CK Langeveldt
+            reason: unknown
+            role: bowler
+        batsman: HH Streak
+    - 57.6:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 57.7:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 58.1:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 58.2:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 58.3:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 58.4:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 58.5:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 58.6:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 59.1:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 59.2:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 59.3:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 59.4:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 59.5:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 59.6:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 60.1:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 60.2:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 60.3:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 60.4:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 60.5:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Streak
+    - 60.6:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 61.1:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 61.2:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 61.3:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 61.4:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 61.5:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 61.6:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 62.1:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 62.2:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 62.3:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 62.4:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 62.5:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 62.6:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 63.1:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 63.2:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 63.3:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Blignaut
+    - 63.4:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 63.5:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 63.6:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 64.1:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 64.2:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 64.3:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 64.4:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 64.5:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 64.6:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 65.1:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 65.2:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 65.3:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 65.4:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Blignaut
+    - 65.5:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 65.6:
+        non_striker: HH Streak
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 66.1:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 66.2:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Blignaut
+    - 66.3:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 66.4:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 66.5:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HH Streak
+    - 66.6:
+        non_striker: HH Streak
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Blignaut
+    - 67.1:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 67.2:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 67.3:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+        wicket:
+          player_out: HH Streak
+          fielders:
+          - HH Gibbs
+          kind: caught
+    - 67.4:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 67.5:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 67.6:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 68.1:
+        non_striker: AG Cremer
+        bowler: N Boje
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: AM Blignaut
+    - 68.2:
+        non_striker: AG Cremer
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Blignaut
+    - 68.3:
+        non_striker: AG Cremer
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 68.4:
+        non_striker: AG Cremer
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Blignaut
+    - 68.5:
+        non_striker: AG Cremer
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Blignaut
+    - 68.6:
+        non_striker: AG Cremer
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Blignaut
+    - 69.1:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Cremer
+    - 69.2:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 69.3:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 69.4:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 69.5:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 69.6:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Cremer
+    - 70.1:
+        non_striker: AG Cremer
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Blignaut
+    - 70.2:
+        non_striker: AG Cremer
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+        wicket:
+          player_out: AG Cremer
+          kind: run out
+    - 70.3:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Blignaut
+    - 70.4:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 70.5:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 70.6:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 71.1:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 71.2:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 71.3:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Blignaut
+    - 71.4:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 71.5:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 71.6:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 71.7:
+        non_striker: AM Blignaut
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 72.1:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Blignaut
+    - 72.2:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 72.3:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 72.4:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Blignaut
+    - 72.5:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 72.6:
+        non_striker: AM Blignaut
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 73.1:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 73.2:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 73.3:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 73.4:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 73.5:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 73.6:
+        non_striker: CB Mpofu
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 74.1:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 74.2:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 74.3:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 74.4:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 74.5:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 74.6:
+        non_striker: AM Blignaut
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 75.1:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 75.2:
+        non_striker: CB Mpofu
+        bowler: N Boje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+        wicket:
+          player_out: AM Blignaut
+          fielders:
+          - MV Boucher
+          kind: stumped
