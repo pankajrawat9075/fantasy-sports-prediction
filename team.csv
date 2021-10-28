@@ -1,4 +1,4 @@
-matchid,playername,playing_role,playing_team,playercost,pred_points_catboost,pred_selection_true_catboost,pred_points_xgb,pred_selection_true_xgb,pred_points_rf,pred_selection_true_rf,pred_points_movingaverage,pred_selection_true_movingaverage,pred_points_ensemble,pred_selection_true_ensemble
+matchid,playername,playing_role,playing_team,playercost,pred_points_RFC=1,pred_selection_RFC=2,pred_points_xgb,pred_selection_true_xgb,pred_points_rf,pred_selection_true_rf,pred_points_movingaverage,pred_selection_true_movingaverage,pred_points_SVC,pred_selection_true_SVC
 1254114,DJ Bravo,AllRounder,Chennai Super Kings,10.0,38.22570960333232,1.0,41.17308,1.0,38.8306600452633,1.0,78.66666666666667,1.0,42.6837602395923,1.0
 1254114,AR Patel,AllRounder,Delhi Capitals,8.5,38.155758062273264,1.0,39.44792,1.0,39.39918896874193,1.0,60.66666666666666,1.0,40.36677963608344,1.0
 1254114,SS Iyer,Batsmen,Delhi Capitals,9.0,37.43565126940934,1.0,37.40035,1.0,35.74786705954869,1.0,48.0,1.0,34.69888358574043,1.0
