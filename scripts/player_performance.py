@@ -292,7 +292,7 @@ def player_performance(param,player_name,opposition=None,venue=None):
                 #RandomForestClassifier
             elif bowl_best_score[1] == 'rfc':
                 if classes_bowl > 2:
-                    classifier = RandomForestClassifier(n_estimators=bowl_best_params['n_estiamtors'],criterion=bowl_best_params['criterion'],random_state=42,min_samples_leaf=bowl_best_params['min_leaf_samples'])
+                    classifier = RandomForestClassifier(n_estimators=bowl_best_params['n_estimators'],criterion=bowl_best_params['criterion'],random_state=42,min_samples_leaf=bowl_best_params['min_leaf_samples'])
                 else:
                     classifier = RandomForestClassifier(n_estimators=bowl_best_params['n_estimators'],criterion=bowl_best_params['criterion'],random_state=42,min_samples_leaf=1)
                 classifier = classifier.fit(bowl_features,bowl_targets)
